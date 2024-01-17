@@ -1,0 +1,21 @@
+[submodule "Alexejhero-Subnautica-Mods"]
+	path = Alexejhero-Subnautica-Mods
+	url = https://github.com/MrPurple6411/Alexejhero-Subnautica-Mods
+[submodule "BetterScannerRoom"]
+	path = BetterScannerRoom
+	url = https://github.com/MrPurple6411/BetterScannerRoom
+[submodule "BetterVehicleStorage"]
+	path = BetterVehicleStorage
+	url = https://github.com/MrPurple6411/BetterVehicleStorage
+[submodule "MrPurple6411-Subnautica-Mods"]
+	path = MrPurple6411-Subnautica-Mods
+	url = https://github.com/MrPurple6411/My-Subnautica-Mods
+[submodule "PrimeSonicSubnauticaMods"]
+	path = PrimeSonicSubnauticaMods
+	url = https://github.com/MrPurple6411/PrimeSonicSubnauticaMods
+[submodule "PVD's Mods"]
+	path = PVD's Mods
+	url = https://github.com/MrPurple6411/PVDs-Mods-Reworked
+[submodule "RandyKnappMods"]
+	path = RandyKnappMods
+	url = https://github.com/MrPurple6411/RandyKnappMods

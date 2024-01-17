@@ -27,8 +27,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BuilderModule", "MrPurple64
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BuildingTweaks", "MrPurple6411-Subnautica-Mods\BuildingTweaks\BuildingTweaks.csproj", "{AF9141CA-864F-42EC-BB5D-1A453ED915A1}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BulletTime", "MrPurple6411-Subnautica-Mods\BulletTime\BulletTime.csproj", "{B8E839E0-A92A-442F-8B0F-07E48B6C2A52}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChargeRequired", "MrPurple6411-Subnautica-Mods\ChargeRequired\ChargeRequired.csproj", "{FA0179BD-E3BE-4E48-BF6B-ACE06F2AA663}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConfigurableChunkDrops", "MrPurple6411-Subnautica-Mods\ConfigurableChunkDrops\ConfigurableChunkDrops.csproj", "{9F117476-EBD6-4A74-A9D9-7B2B298DA3FB}"
@@ -209,10 +207,6 @@ Global
 		{AF9141CA-864F-42EC-BB5D-1A453ED915A1}.BelowZero|Any CPU.Build.0 = BelowZero|Any CPU
 		{AF9141CA-864F-42EC-BB5D-1A453ED915A1}.Subnautica|Any CPU.ActiveCfg = Subnautica|Any CPU
 		{AF9141CA-864F-42EC-BB5D-1A453ED915A1}.Subnautica|Any CPU.Build.0 = Subnautica|Any CPU
-		{B8E839E0-A92A-442F-8B0F-07E48B6C2A52}.BelowZero|Any CPU.ActiveCfg = BelowZero|Any CPU
-		{B8E839E0-A92A-442F-8B0F-07E48B6C2A52}.BelowZero|Any CPU.Build.0 = BelowZero|Any CPU
-		{B8E839E0-A92A-442F-8B0F-07E48B6C2A52}.Subnautica|Any CPU.ActiveCfg = Subnautica|Any CPU
-		{B8E839E0-A92A-442F-8B0F-07E48B6C2A52}.Subnautica|Any CPU.Build.0 = Subnautica|Any CPU
 		{FA0179BD-E3BE-4E48-BF6B-ACE06F2AA663}.BelowZero|Any CPU.ActiveCfg = BelowZero|Any CPU
 		{FA0179BD-E3BE-4E48-BF6B-ACE06F2AA663}.BelowZero|Any CPU.Build.0 = BelowZero|Any CPU
 		{FA0179BD-E3BE-4E48-BF6B-ACE06F2AA663}.Subnautica|Any CPU.ActiveCfg = Subnautica|Any CPU
