@@ -446,15 +446,19 @@ Global
 		SolutionGuid = {40E4FE21-6870-4BD5-9623-027E2D6F54A5}
 	EndGlobalSection
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution
-		PVD's Mods\Common\Common.projitems*{023b9480-b5ae-4ea0-9697-536586df646f}*SharedItemsImports = 5
+		Common\Common.projitems*{023b9480-b5ae-4ea0-9697-536586df646f}*SharedItemsImports = 5
 		Common\Common.projitems*{035989f1-4a9d-49dd-b71a-ce679267a844}*SharedItemsImports = 5
+		Common\Common.projitems*{14b3637e-da55-4b17-b4fd-12698fa9feb4}*SharedItemsImports = 5
 		PrimeSonicSubnauticaMods\EasyMarkup\EasyMarkup.projitems*{14b3637e-da55-4b17-b4fd-12698fa9feb4}*SharedItemsImports = 5
 		Common\Common.projitems*{2f519ca0-1493-4a01-a17d-e9a93973c596}*SharedItemsImports = 5
+		Common\Common.projitems*{62bda728-e174-4c67-8744-acf2c57dee88}*SharedItemsImports = 5
 		PrimeSonicSubnauticaMods\EasyMarkup\EasyMarkup.projitems*{62bda728-e174-4c67-8744-acf2c57dee88}*SharedItemsImports = 5
+		Common\Common.projitems*{7004be6e-bad4-4013-bcd6-b8ec356a2577}*SharedItemsImports = 5
 		PrimeSonicSubnauticaMods\EasyMarkup\EasyMarkup.projitems*{7004be6e-bad4-4013-bcd6-b8ec356a2577}*SharedItemsImports = 5
 		PrimeSonicSubnauticaMods\EasyMarkup\EasyMarkup.projitems*{7b713bfd-3d84-44cf-bf86-35b1812646cb}*SharedItemsImports = 13
 		Common\Common.projitems*{91d8d243-2590-4911-a827-c4c929e0ab69}*SharedItemsImports = 13
-		PVD's Mods\Common\Common.projitems*{a5b2cb05-65ee-4afd-bcfb-66f7cbd64c05}*SharedItemsImports = 5
+		Common\Common.projitems*{a5b2cb05-65ee-4afd-bcfb-66f7cbd64c05}*SharedItemsImports = 5
+		Common\Common.projitems*{a7b39a46-a3de-4d9b-af65-12032992a58a}*SharedItemsImports = 5
 		PrimeSonicSubnauticaMods\EasyMarkup\EasyMarkup.projitems*{a7b39a46-a3de-4d9b-af65-12032992a58a}*SharedItemsImports = 5
 		Common\Common.projitems*{bd871602-51f5-4113-9595-4fae8220f369}*SharedItemsImports = 5
 		Common\Common.projitems*{cf1fb9fc-5797-4198-81d1-872841f88098}*SharedItemsImports = 5

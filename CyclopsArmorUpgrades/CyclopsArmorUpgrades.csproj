@@ -6,6 +6,6 @@
         <OutputPath>$(SolutionDir)bin\$(Configuration)\$(AssemblyName)\</OutputPath>
 	</PropertyGroup>
 	<ItemGroup>
-	  <ProjectReference Include="..\..\PrimeSonicSubnauticaMods\MoreCyclopsUpgrades\MoreCyclopsUpgrades.csproj" />
+	  <ProjectReference Include="..\PrimeSonicSubnauticaMods\MoreCyclopsUpgrades\MoreCyclopsUpgrades.csproj" />
 	</ItemGroup>
 </Project>
