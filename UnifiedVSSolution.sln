@@ -1,0 +1,470 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34302.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConfigurableDrillableCount", "Alexejhero-Subnautica-Mods\ConfigurableDrillableCount\ConfigurableDrillableCount.csproj", "{B7B4674A-3A87-4326-A76A-EF9A05407839}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InstantBulkheadAnimations", "Alexejhero-Subnautica-Mods\InstantBulkheadAnimations\InstantBulkheadAnimations.csproj", "{5971F4FF-CAB9-4EB5-9C47-DCE9169A980B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MoreModifiedItems", "Alexejhero-Subnautica-Mods\MoreModifiedItems\MoreModifiedItems.csproj", "{4CC31749-B749-450F-9886-03F0847A8BE4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NoMenuPause", "Alexejhero-Subnautica-Mods\NoMenuPause\NoMenuPause.csproj", "{240A768C-1CEA-40B3-AB71-613550D07C8E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PickupableStorageEnhanced", "Alexejhero-Subnautica-Mods\PickupFullCarryalls\PickupableStorageEnhanced.csproj", "{3C8AC859-6ECC-4450-876B-211F6F228DC8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BetterScannerRoom", "BetterScannerRoom\BetterScannerRoom\BetterScannerRoom.csproj", "{A03B2EE5-A910-4A1E-A4A7-D3C7C26425FF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AllItems1x1", "MrPurple6411-Subnautica-Mods\All-Items-1x1\AllItems1x1.csproj", "{1CEB81A0-80A6-495C-82AF-6DD05F6F3E6E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BaseLegsRemoval", "MrPurple6411-Subnautica-Mods\Base Legs Removal\BaseLegsRemoval.csproj", "{02D5AAF1-67AA-4836-8672-21808F29EF33}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BaseKits", "MrPurple6411-Subnautica-Mods\BaseKits\BaseKits.csproj", "{ACD5658E-9227-440A-B3CE-2E0051927419}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BetterACU", "MrPurple6411-Subnautica-Mods\BetterACU\BetterACU.csproj", "{9953D04F-B33B-400E-87A2-2F0465838931}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BuilderModule", "MrPurple6411-Subnautica-Mods\BuilderModule\BuilderModule.csproj", "{C86C0073-8539-47FA-AA99-67FF307EB002}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BuildingTweaks", "MrPurple6411-Subnautica-Mods\BuildingTweaks\BuildingTweaks.csproj", "{AF9141CA-864F-42EC-BB5D-1A453ED915A1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BulletTime", "MrPurple6411-Subnautica-Mods\BulletTime\BulletTime.csproj", "{B8E839E0-A92A-442F-8B0F-07E48B6C2A52}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChargeRequired", "MrPurple6411-Subnautica-Mods\ChargeRequired\ChargeRequired.csproj", "{FA0179BD-E3BE-4E48-BF6B-ACE06F2AA663}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConfigurableChunkDrops", "MrPurple6411-Subnautica-Mods\ConfigurableChunkDrops\ConfigurableChunkDrops.csproj", "{9F117476-EBD6-4A74-A9D9-7B2B298DA3FB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CopperFromScanning", "MrPurple6411-Subnautica-Mods\CopperFromScanning\CopperFromScanning.csproj", "{7CAA47F9-E95F-48EF-874B-F50E1361449E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CreaturesFleeLess", "MrPurple6411-Subnautica-Mods\CreaturesFleeLess\CreaturesFleeLess.csproj", "{9AE3B596-34DA-4768-ACB7-758245407EBA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomCommands", "MrPurple6411-Subnautica-Mods\CustomCommands\CustomCommands.csproj", "{789FF449-BB10-4A96-944A-400F362FB6A6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomHullPlates", "MrPurple6411-Subnautica-Mods\CustomHullPlates\CustomHullPlates.csproj", "{B0E9F4B2-9466-43A7-9ED2-876DAB5B1D03}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomizeYourSpawns", "MrPurple6411-Subnautica-Mods\CustomizeYourSpawns\CustomizeYourSpawns.csproj", "{D76BD2A9-E623-440E-A1DF-BB968511D04F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomPosters", "MrPurple6411-Subnautica-Mods\CustomPosters\CustomPosters.csproj", "{311AC867-1E93-49DC-90D4-CE589345B59E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DropUpgradesOnDestroy", "MrPurple6411-Subnautica-Mods\DropUpgradesOnDestroy\DropUpgradesOnDestroy.csproj", "{DBE8FCD8-37D4-4AF1-BC21-D6B1E74EA458}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExtraOptions", "MrPurple6411-Subnautica-Mods\ExtraOptions (SMLHelper)\ExtraOptions.csproj", "{E41CCEA5-41DA-4BBF-B17F-642CC7F6B4E5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExtravagantGifts", "MrPurple6411-Subnautica-Mods\ExtravagantGifts\ExtravagantGifts.csproj", "{23302B23-8E5F-474E-A562-42AB28928148}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FabricatorNoAutoClose", "MrPurple6411-Subnautica-Mods\FabricatorNoAutoClose\FabricatorNoAutoClose.csproj", "{C6EAE9D4-B8AA-41DF-81D7-A04337A5BB59}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GravTrapStorage", "MrPurple6411-Subnautica-Mods\GravTrapStorage\GravTrapStorage.csproj", "{1CB70504-AC7E-44DB-BEA3-63B84D8E9F6D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ImprovedPowerNetwork", "MrPurple6411-Subnautica-Mods\ImprovedPowerNetwork\ImprovedPowerNetwork.csproj", "{8DC2F0F0-1B63-4843-8776-6058319CA9FC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Increased Resource Spawns", "MrPurple6411-Subnautica-Mods\Increased Resource Spawns\Increased Resource Spawns.csproj", "{6C04FED7-8DC4-4F88-9CB4-F1FA1E6878ED}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IncreasedChunkDrops", "MrPurple6411-Subnautica-Mods\IncreasedChunkDrops\IncreasedChunkDrops.csproj", "{A9F3CF4A-53FC-48D8-B336-73D340E03498}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IslandCloudRemoval", "MrPurple6411-Subnautica-Mods\IslandCloudRemoval\IslandCloudRemoval.csproj", "{CBA162C5-8196-4AF8-8FAE-066BD03D6C19}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Keep Inventory On Death", "MrPurple6411-Subnautica-Mods\Keep_Inventory_On_Death\Keep Inventory On Death.csproj", "{B010FDDE-EC4C-429D-AC0B-59AC22A916A3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NoCrosshair", "MrPurple6411-Subnautica-Mods\NoCrosshair\NoCrosshair.csproj", "{C9D0FB3B-BD91-4CB4-8CBC-1913C379D294}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NoEatingSounds", "MrPurple6411-Subnautica-Mods\NoEatingSounds\NoEatingSounds.csproj", "{A0DF8E20-93B5-472A-9E2F-A673022FE08A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NoMagicLights", "MrPurple6411-Subnautica-Mods\NoMagicLights\NoMagicLights.csproj", "{2838053C-A418-4959-8910-7761411FAA13}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NoMask", "MrPurple6411-Subnautica-Mods\NoMask\NoMask.csproj", "{30A793B6-1738-4267-B539-F1D0B7C57AF6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NoOxygenWarnings", "MrPurple6411-Subnautica-Mods\NoOxygenWarnings\NoOxygenWarnings.csproj", "{A5312E4B-0F3D-4C8C-84A7-A7063813E176}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PersistentCommands", "MrPurple6411-Subnautica-Mods\PersistentCommands\PersistentCommands.csproj", "{44A5CC6D-13A0-450F-B539-9DEF0E3527FD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PowerOrder", "MrPurple6411-Subnautica-Mods\PowerOrder\PowerOrder.csproj", "{44001D2F-ABAD-4C7E-83E2-269D89B4D709}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pridenautica", "MrPurple6411-Subnautica-Mods\Pridenautica\Pridenautica.csproj", "{6F98BF58-C150-4672-8371-2EA2DC959F3B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RandomCreatureSize", "MrPurple6411-Subnautica-Mods\RandomCreatureSize\RandomCreatureSize.csproj", "{F86FC707-E4DE-4929-BAE5-D6B445706D0B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ScannableTimeCapsules", "MrPurple6411-Subnautica-Mods\ScannableTimeCapsules\ScannableTimeCapsules.csproj", "{BE2C4081-6C70-4F1B-A647-EF3F0194AAAA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MoreSeamothDepth", "MrPurple6411-Subnautica-Mods\SeamothDepthModules\MoreSeamothDepth.csproj", "{0F12C791-925E-4D02-BC25-1BFE8D61D26A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SeamothThermal", "MrPurple6411-Subnautica-Mods\SeamothThermal\SeamothThermal.csproj", "{90BA0ECB-1D7C-42CA-A536-7EDBE14D7D14}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SolidTerrain", "MrPurple6411-Subnautica-Mods\SolidTerrain\SolidTerrain.csproj", "{78665003-B058-4A2B-A574-E77CEB5DB263}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SpecialtyManifold", "MrPurple6411-Subnautica-Mods\SpecialtyManifold\SpecialtyManifold.csproj", "{C01BF687-7644-43F9-ACA5-1168B14BA487}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TechPistol", "MrPurple6411-Subnautica-Mods\TechPistol\TechPistol.csproj", "{421C97E8-33A1-4724-B7D2-3B334EB641E7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Time Eternal", "MrPurple6411-Subnautica-Mods\Time Eternal\Time Eternal.csproj", "{1F869A1B-49C0-4982-91B1-9E3BEBA888A6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ToolInspection", "MrPurple6411-Subnautica-Mods\ToolInspection\ToolInspection.csproj", "{21819A8D-0FC5-4B11-B8BF-DE4B059093FE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnknownName", "MrPurple6411-Subnautica-Mods\UnkownName\UnknownName.csproj", "{4B73A86C-8B5D-4401-9593-EBC74DD7DC04}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnobtaniumBatteries", "MrPurple6411-Subnautica-Mods\UnobtaniumBatteries\UnobtaniumBatteries.csproj", "{88F3078C-A24C-463D-AA22-B260AA981D84}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WarpersNoWarping", "MrPurple6411-Subnautica-Mods\WarpersNoWarping\WarpersNoWarping.csproj", "{3F81BDF1-8E4E-430C-86EC-B060F859B4CD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AIOFabricator", "PrimeSonicSubnauticaMods\AIOFabricator\AIOFabricator.csproj", "{FBAA1084-617A-47B5-9CBF-647DFAA3ABF9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BetterBioReactor", "PrimeSonicSubnauticaMods\BetterBioReactor\BetterBioReactor.csproj", "{BD871602-51F5-4113-9595-4FAE8220F369}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomBatteries", "PrimeSonicSubnauticaMods\CustomBatteries\CustomBatteries.csproj", "{14B3637E-DA55-4B17-B4FD-12698FA9FEB4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomCraft3", "PrimeSonicSubnauticaMods\CustomCraft3\CustomCraft3.csproj", "{62BDA728-E174-4C67-8744-ACF2C57DEE88}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomCraft3Tests", "PrimeSonicSubnauticaMods\CustomCraft3Tests\CustomCraft3Tests.csproj", "{035989F1-4A9D-49DD-B71A-CE679267A844}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CyclopsAutoZapper", "PrimeSonicSubnauticaMods\CyclopsAutoZapper\CyclopsAutoZapper.csproj", "{D428FC37-464D-4AAC-BFA0-78C63E25F546}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CyclopsEngineUpgrades", "PrimeSonicSubnauticaMods\CyclopsEngineUpgrades\CyclopsEngineUpgrades.csproj", "{375ECA3C-4B94-462A-9348-7EB5C15C86CA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CyclopsEnhancedSonar", "PrimeSonicSubnauticaMods\CyclopsEnhancedSonar\CyclopsEnhancedSonar.csproj", "{9318D667-C0E6-432F-B26A-D77324DC1E99}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CyclopsNuclearUpgrades", "PrimeSonicSubnauticaMods\CyclopsNuclearUpgrades\CyclopsNuclearUpgrades.csproj", "{E9E4C958-092E-43DA-8FCC-0C1495B4D5E1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CyclopsSimpleSolar", "PrimeSonicSubnauticaMods\CyclopsSimpleSolar\CyclopsSimpleSolar.csproj", "{CF1FB9FC-5797-4198-81D1-872841F88098}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CyclopsSolarUpgrades", "PrimeSonicSubnauticaMods\CyclopsSolarUpgrades\CyclopsSolarUpgrades.csproj", "{878EA820-FA43-4CB1-A90A-843505537BD9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CyclopsSpeedUpgrades", "PrimeSonicSubnauticaMods\CyclopsSpeedUpgrades\CyclopsSpeedUpgrades.csproj", "{B9323604-EA1A-45F4-95B5-1EA077131B21}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CyclopsThermalUpgrades", "PrimeSonicSubnauticaMods\CyclopsThermalUpgrades\CyclopsThermalUpgrades.csproj", "{AB967C76-2FCB-4E86-915E-41B8A8667BCA}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "EasyMarkup", "PrimeSonicSubnauticaMods\EasyMarkup\EasyMarkup.shproj", "{7B713BFD-3D84-44CF-BF86-35B1812646CB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MidGameBatteries", "PrimeSonicSubnauticaMods\MidGameBatteries\MidGameBatteries.csproj", "{74A3377D-DA6B-4B89-8D3A-C6D1A5A43097}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MoreCyclopsUpgrades", "PrimeSonicSubnauticaMods\MoreCyclopsUpgrades\MoreCyclopsUpgrades.csproj", "{A7B39A46-A3DE-4D9B-AF65-12032992A58A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnSlowSeaTruck", "PrimeSonicSubnauticaMods\UnSlowSeaTruck\UnSlowSeaTruck.csproj", "{858FC5AD-F93C-46C2-98E5-196A8F7A2BE8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UpgradedVehicles", "PrimeSonicSubnauticaMods\UpgradedVehicles\UpgradedVehicles.csproj", "{7004BE6E-BAD4-4013-BCD6-B8EC356A2577}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Defabricator", "PVD's Mods\Defabricator\Defabricator.csproj", "{A5B2CB05-65EE-4AFD-BCFB-66F7CBD64C05}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RadialTabs", "PVD's Mods\RadialMenu\RadialTabs.csproj", "{023B9480-B5AE-4EA0-9697-536586DF646F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BetterScannerBlips", "RandyKnappMods\SubnauticaModSystem\BetterScannerBlips\BetterScannerBlips.csproj", "{82695699-45E2-4C9A-B198-871108FBE79C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QuitToDesktop", "RandyKnappMods\SubnauticaModSystem\QuitToDesktop\QuitToDesktop.csproj", "{39616B8B-FA81-421F-8D7B-F499DED1F49F}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "Common", "Common\Common.shproj", "{91D8D243-2590-4911-A827-C4C929E0AB69}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BetterVehicleStorage", "BetterVehicleStorage\BetterVehicleStorage\BetterVehicleStorage.csproj", "{2F519CA0-1493-4A01-A17D-E9A93973C596}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CyclopsArmorUpgrades", "CyclopsArmorUpgrades\CyclopsArmorUpgrades.csproj", "{BE21796E-1166-44C6-B046-94BDB583E15C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		BelowZero|Any CPU = BelowZero|Any CPU
+		Subnautica|Any CPU = Subnautica|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7B4674A-3A87-4326-A76A-EF9A05407839}.BelowZero|Any CPU.ActiveCfg = BelowZero|Any CPU
+		{B7B4674A-3A87-4326-A76A-EF9A05407839}.BelowZero|Any CPU.Build.0 = BelowZero|Any CPU
+		{B7B4674A-3A87-4326-A76A-EF9A05407839}.Subnautica|Any CPU.ActiveCfg = Subnautica|Any CPU
+		{B7B4674A-3A87-4326-A76A-EF9A05407839}.Subnautica|Any CPU.Build.0 = Subnautica|Any CPU
+		{5971F4FF-CAB9-4EB5-9C47-DCE9169A980B}.BelowZero|Any CPU.ActiveCfg = BelowZero|Any CPU
+		{5971F4FF-CAB9-4EB5-9C47-DCE9169A980B}.BelowZero|Any CPU.Build.0 = BelowZero|Any CPU
+		{5971F4FF-CAB9-4EB5-9C47-DCE9169A980B}.Subnautica|Any CPU.ActiveCfg = Subnautica|Any CPU
+		{5971F4FF-CAB9-4EB5-9C47-DCE9169A980B}.Subnautica|Any CPU.Build.0 = Subnautica|Any CPU
+		{4CC31749-B749-450F-9886-03F0847A8BE4}.BelowZero|Any CPU.ActiveCfg = BelowZero|Any CPU
+		{4CC31749-B749-450F-9886-03F0847A8BE4}.BelowZero|Any CPU.Build.0 = BelowZero|Any CPU
+		{4CC31749-B749-450F-9886-03F0847A8BE4}.Subnautica|Any CPU.ActiveCfg = Subnautica|Any CPU
+		{4CC31749-B749-450F-9886-03F0847A8BE4}.Subnautica|Any CPU.Build.0 = Subnautica|Any CPU
+		{240A768C-1CEA-40B3-AB71-613550D07C8E}.BelowZero|Any CPU.ActiveCfg = BelowZero|Any CPU
+		{240A768C-1CEA-40B3-AB71-613550D07C8E}.BelowZero|Any CPU.Build.0 = BelowZero|Any CPU
+		{240A768C-1CEA-40B3-AB71-613550D07C8E}.Subnautica|Any CPU.ActiveCfg = Subnautica|Any CPU
+		{240A768C-1CEA-40B3-AB71-613550D07C8E}.Subnautica|Any CPU.Build.0 = Subnautica|Any CPU
+		{3C8AC859-6ECC-4450-876B-211F6F228DC8}.BelowZero|Any CPU.ActiveCfg = BelowZero|Any CPU
+		{3C8AC859-6ECC-4450-876B-211F6F228DC8}.BelowZero|Any CPU.Build.0 = BelowZero|Any CPU
+		{3C8AC859-6ECC-4450-876B-211F6F228DC8}.Subnautica|Any CPU.ActiveCfg = Subnautica|Any CPU
+		{3C8AC859-6ECC-4450-876B-211F6F228DC8}.Subnautica|Any CPU.Build.0 = Subnautica|Any CPU
+		{A03B2EE5-A910-4A1E-A4A7-D3C7C26425FF}.BelowZero|Any CPU.ActiveCfg = BelowZero|Any CPU
+		{A03B2EE5-A910-4A1E-A4A7-D3C7C26425FF}.BelowZero|Any CPU.Build.0 = BelowZero|Any CPU
+		{A03B2EE5-A910-4A1E-A4A7-D3C7C26425FF}.Subnautica|Any CPU.ActiveCfg = Subnautica|Any CPU
+		{A03B2EE5-A910-4A1E-A4A7-D3C7C26425FF}.Subnautica|Any CPU.Build.0 = Subnautica|Any CPU
+		{1CEB81A0-80A6-495C-82AF-6DD05F6F3E6E}.BelowZero|Any CPU.ActiveCfg = BelowZero|Any CPU
+		{1CEB81A0-80A6-495C-82AF-6DD05F6F3E6E}.BelowZero|Any CPU.Build.0 = BelowZero|Any CPU
+		{1CEB81A0-80A6-495C-82AF-6DD05F6F3E6E}.Subnautica|Any CPU.ActiveCfg = Subnautica|Any CPU
+		{1CEB81A0-80A6-495C-82AF-6DD05F6F3E6E}.Subnautica|Any CPU.Build.0 = Subnautica|Any CPU
+		{02D5AAF1-67AA-4836-8672-21808F29EF33}.BelowZero|Any CPU.ActiveCfg = BelowZero|Any CPU
+		{02D5AAF1-67AA-4836-8672-21808F29EF33}.BelowZero|Any CPU.Build.0 = BelowZero|Any CPU
+		{02D5AAF1-67AA-4836-8672-21808F29EF33}.Subnautica|Any CPU.ActiveCfg = Subnautica|Any CPU
+		{02D5AAF1-67AA-4836-8672-21808F29EF33}.Subnautica|Any CPU.Build.0 = Subnautica|Any CPU
+		{ACD5658E-9227-440A-B3CE-2E0051927419}.BelowZero|Any CPU.ActiveCfg = BelowZero|Any CPU
+		{ACD5658E-9227-440A-B3CE-2E0051927419}.BelowZero|Any CPU.Build.0 = BelowZero|Any CPU
+		{ACD5658E-9227-440A-B3CE-2E0051927419}.Subnautica|Any CPU.ActiveCfg = Subnautica|Any CPU
+		{ACD5658E-9227-440A-B3CE-2E0051927419}.Subnautica|Any CPU.Build.0 = Subnautica|Any CPU
+		{9953D04F-B33B-400E-87A2-2F0465838931}.BelowZero|Any CPU.ActiveCfg = BelowZero|Any CPU
+		{9953D04F-B33B-400E-87A2-2F0465838931}.BelowZero|Any CPU.Build.0 = BelowZero|Any CPU
+		{9953D04F-B33B-400E-87A2-2F0465838931}.Subnautica|Any CPU.ActiveCfg = Subnautica|Any CPU
+		{9953D04F-B33B-400E-87A2-2F0465838931}.Subnautica|Any CPU.Build.0 = Subnautica|Any CPU
+		{C86C0073-8539-47FA-AA99-67FF307EB002}.BelowZero|Any CPU.ActiveCfg = BelowZero|Any CPU
+		{C86C0073-8539-47FA-AA99-67FF307EB002}.BelowZero|Any CPU.Build.0 = BelowZero|Any CPU
+		{C86C0073-8539-47FA-AA99-67FF307EB002}.Subnautica|Any CPU.ActiveCfg = Subnautica|Any CPU
+		{C86C0073-8539-47FA-AA99-67FF307EB002}.Subnautica|Any CPU.Build.0 = Subnautica|Any CPU
+		{AF9141CA-864F-42EC-BB5D-1A453ED915A1}.BelowZero|Any CPU.ActiveCfg = BelowZero|Any CPU
+		{AF9141CA-864F-42EC-BB5D-1A453ED915A1}.BelowZero|Any CPU.Build.0 = BelowZero|Any CPU
+		{AF9141CA-864F-42EC-BB5D-1A453ED915A1}.Subnautica|Any CPU.ActiveCfg = Subnautica|Any CPU
+		{AF9141CA-864F-42EC-BB5D-1A453ED915A1}.Subnautica|Any CPU.Build.0 = Subnautica|Any CPU
+		{B8E839E0-A92A-442F-8B0F-07E48B6C2A52}.BelowZero|Any CPU.ActiveCfg = BelowZero|Any CPU
+		{B8E839E0-A92A-442F-8B0F-07E48B6C2A52}.BelowZero|Any CPU.Build.0 = BelowZero|Any CPU
+		{B8E839E0-A92A-442F-8B0F-07E48B6C2A52}.Subnautica|Any CPU.ActiveCfg = Subnautica|Any CPU
+		{B8E839E0-A92A-442F-8B0F-07E48B6C2A52}.Subnautica|Any CPU.Build.0 = Subnautica|Any CPU
+		{FA0179BD-E3BE-4E48-BF6B-ACE06F2AA663}.BelowZero|Any CPU.ActiveCfg = BelowZero|Any CPU
+		{FA0179BD-E3BE-4E48-BF6B-ACE06F2AA663}.BelowZero|Any CPU.Build.0 = BelowZero|Any CPU
+		{FA0179BD-E3BE-4E48-BF6B-ACE06F2AA663}.Subnautica|Any CPU.ActiveCfg = Subnautica|Any CPU
+		{FA0179BD-E3BE-4E48-BF6B-ACE06F2AA663}.Subnautica|Any CPU.Build.0 = Subnautica|Any CPU
+		{9F117476-EBD6-4A74-A9D9-7B2B298DA3FB}.BelowZero|Any CPU.ActiveCfg = BelowZero|Any CPU
+		{9F117476-EBD6-4A74-A9D9-7B2B298DA3FB}.BelowZero|Any CPU.Build.0 = BelowZero|Any CPU
+		{9F117476-EBD6-4A74-A9D9-7B2B298DA3FB}.Subnautica|Any CPU.ActiveCfg = Subnautica|Any CPU
+		{9F117476-EBD6-4A74-A9D9-7B2B298DA3FB}.Subnautica|Any CPU.Build.0 = Subnautica|Any CPU
+		{7CAA47F9-E95F-48EF-874B-F50E1361449E}.BelowZero|Any CPU.ActiveCfg = BelowZero|Any CPU
+		{7CAA47F9-E95F-48EF-874B-F50E1361449E}.BelowZero|Any CPU.Build.0 = BelowZero|Any CPU
+		{7CAA47F9-E95F-48EF-874B-F50E1361449E}.Subnautica|Any CPU.ActiveCfg = Subnautica|Any CPU
+		{7CAA47F9-E95F-48EF-874B-F50E1361449E}.Subnautica|Any CPU.Build.0 = Subnautica|Any CPU
+		{9AE3B596-34DA-4768-ACB7-758245407EBA}.BelowZero|Any CPU.ActiveCfg = BelowZero|Any CPU
+		{9AE3B596-34DA-4768-ACB7-758245407EBA}.BelowZero|Any CPU.Build.0 = BelowZero|Any CPU
+		{9AE3B596-34DA-4768-ACB7-758245407EBA}.Subnautica|Any CPU.ActiveCfg = Subnautica|Any CPU
+		{9AE3B596-34DA-4768-ACB7-758245407EBA}.Subnautica|Any CPU.Build.0 = Subnautica|Any CPU
+		{789FF449-BB10-4A96-944A-400F362FB6A6}.BelowZero|Any CPU.ActiveCfg = BelowZero|Any CPU
+		{789FF449-BB10-4A96-944A-400F362FB6A6}.BelowZero|Any CPU.Build.0 = BelowZero|Any CPU
+		{789FF449-BB10-4A96-944A-400F362FB6A6}.Subnautica|Any CPU.ActiveCfg = Subnautica|Any CPU
+		{789FF449-BB10-4A96-944A-400F362FB6A6}.Subnautica|Any CPU.Build.0 = Subnautica|Any CPU
+		{B0E9F4B2-9466-43A7-9ED2-876DAB5B1D03}.BelowZero|Any CPU.ActiveCfg = BelowZero|Any CPU
+		{B0E9F4B2-9466-43A7-9ED2-876DAB5B1D03}.BelowZero|Any CPU.Build.0 = BelowZero|Any CPU
+		{B0E9F4B2-9466-43A7-9ED2-876DAB5B1D03}.Subnautica|Any CPU.ActiveCfg = Subnautica|Any CPU
+		{B0E9F4B2-9466-43A7-9ED2-876DAB5B1D03}.Subnautica|Any CPU.Build.0 = Subnautica|Any CPU
+		{D76BD2A9-E623-440E-A1DF-BB968511D04F}.BelowZero|Any CPU.ActiveCfg = BelowZero|Any CPU
+		{D76BD2A9-E623-440E-A1DF-BB968511D04F}.BelowZero|Any CPU.Build.0 = BelowZero|Any CPU
+		{D76BD2A9-E623-440E-A1DF-BB968511D04F}.Subnautica|Any CPU.ActiveCfg = Subnautica|Any CPU
+		{D76BD2A9-E623-440E-A1DF-BB968511D04F}.Subnautica|Any CPU.Build.0 = Subnautica|Any CPU
+		{311AC867-1E93-49DC-90D4-CE589345B59E}.BelowZero|Any CPU.ActiveCfg = BelowZero|Any CPU
+		{311AC867-1E93-49DC-90D4-CE589345B59E}.BelowZero|Any CPU.Build.0 = BelowZero|Any CPU
+		{311AC867-1E93-49DC-90D4-CE589345B59E}.Subnautica|Any CPU.ActiveCfg = Subnautica|Any CPU
+		{311AC867-1E93-49DC-90D4-CE589345B59E}.Subnautica|Any CPU.Build.0 = Subnautica|Any CPU
+		{DBE8FCD8-37D4-4AF1-BC21-D6B1E74EA458}.BelowZero|Any CPU.ActiveCfg = BelowZero|Any CPU
+		{DBE8FCD8-37D4-4AF1-BC21-D6B1E74EA458}.BelowZero|Any CPU.Build.0 = BelowZero|Any CPU
+		{DBE8FCD8-37D4-4AF1-BC21-D6B1E74EA458}.Subnautica|Any CPU.ActiveCfg = Subnautica|Any CPU
+		{DBE8FCD8-37D4-4AF1-BC21-D6B1E74EA458}.Subnautica|Any CPU.Build.0 = Subnautica|Any CPU
+		{E41CCEA5-41DA-4BBF-B17F-642CC7F6B4E5}.BelowZero|Any CPU.ActiveCfg = BelowZero|Any CPU
+		{E41CCEA5-41DA-4BBF-B17F-642CC7F6B4E5}.BelowZero|Any CPU.Build.0 = BelowZero|Any CPU
+		{E41CCEA5-41DA-4BBF-B17F-642CC7F6B4E5}.Subnautica|Any CPU.ActiveCfg = Subnautica|Any CPU
+		{E41CCEA5-41DA-4BBF-B17F-642CC7F6B4E5}.Subnautica|Any CPU.Build.0 = Subnautica|Any CPU
+		{23302B23-8E5F-474E-A562-42AB28928148}.BelowZero|Any CPU.ActiveCfg = BelowZero|Any CPU
+		{23302B23-8E5F-474E-A562-42AB28928148}.BelowZero|Any CPU.Build.0 = BelowZero|Any CPU
+		{23302B23-8E5F-474E-A562-42AB28928148}.Subnautica|Any CPU.ActiveCfg = Subnautica|Any CPU
+		{C6EAE9D4-B8AA-41DF-81D7-A04337A5BB59}.BelowZero|Any CPU.ActiveCfg = BelowZero|Any CPU
+		{C6EAE9D4-B8AA-41DF-81D7-A04337A5BB59}.BelowZero|Any CPU.Build.0 = BelowZero|Any CPU
+		{C6EAE9D4-B8AA-41DF-81D7-A04337A5BB59}.Subnautica|Any CPU.ActiveCfg = Subnautica|Any CPU
+		{C6EAE9D4-B8AA-41DF-81D7-A04337A5BB59}.Subnautica|Any CPU.Build.0 = Subnautica|Any CPU
+		{1CB70504-AC7E-44DB-BEA3-63B84D8E9F6D}.BelowZero|Any CPU.ActiveCfg = BelowZero|Any CPU
+		{1CB70504-AC7E-44DB-BEA3-63B84D8E9F6D}.BelowZero|Any CPU.Build.0 = BelowZero|Any CPU
+		{1CB70504-AC7E-44DB-BEA3-63B84D8E9F6D}.Subnautica|Any CPU.ActiveCfg = Subnautica|Any CPU
+		{1CB70504-AC7E-44DB-BEA3-63B84D8E9F6D}.Subnautica|Any CPU.Build.0 = Subnautica|Any CPU
+		{8DC2F0F0-1B63-4843-8776-6058319CA9FC}.BelowZero|Any CPU.ActiveCfg = BelowZero|Any CPU
+		{8DC2F0F0-1B63-4843-8776-6058319CA9FC}.BelowZero|Any CPU.Build.0 = BelowZero|Any CPU
+		{8DC2F0F0-1B63-4843-8776-6058319CA9FC}.Subnautica|Any CPU.ActiveCfg = Subnautica|Any CPU
+		{8DC2F0F0-1B63-4843-8776-6058319CA9FC}.Subnautica|Any CPU.Build.0 = Subnautica|Any CPU
+		{6C04FED7-8DC4-4F88-9CB4-F1FA1E6878ED}.BelowZero|Any CPU.ActiveCfg = BelowZero|Any CPU
+		{6C04FED7-8DC4-4F88-9CB4-F1FA1E6878ED}.BelowZero|Any CPU.Build.0 = BelowZero|Any CPU
+		{6C04FED7-8DC4-4F88-9CB4-F1FA1E6878ED}.Subnautica|Any CPU.ActiveCfg = Subnautica|Any CPU
+		{6C04FED7-8DC4-4F88-9CB4-F1FA1E6878ED}.Subnautica|Any CPU.Build.0 = Subnautica|Any CPU
+		{A9F3CF4A-53FC-48D8-B336-73D340E03498}.BelowZero|Any CPU.ActiveCfg = BelowZero|Any CPU
+		{A9F3CF4A-53FC-48D8-B336-73D340E03498}.BelowZero|Any CPU.Build.0 = BelowZero|Any CPU
+		{A9F3CF4A-53FC-48D8-B336-73D340E03498}.Subnautica|Any CPU.ActiveCfg = Subnautica|Any CPU
+		{A9F3CF4A-53FC-48D8-B336-73D340E03498}.Subnautica|Any CPU.Build.0 = Subnautica|Any CPU
+		{CBA162C5-8196-4AF8-8FAE-066BD03D6C19}.BelowZero|Any CPU.ActiveCfg = BelowZero|Any CPU
+		{CBA162C5-8196-4AF8-8FAE-066BD03D6C19}.Subnautica|Any CPU.ActiveCfg = Subnautica|Any CPU
+		{CBA162C5-8196-4AF8-8FAE-066BD03D6C19}.Subnautica|Any CPU.Build.0 = Subnautica|Any CPU
+		{B010FDDE-EC4C-429D-AC0B-59AC22A916A3}.BelowZero|Any CPU.ActiveCfg = BelowZero|Any CPU
+		{B010FDDE-EC4C-429D-AC0B-59AC22A916A3}.BelowZero|Any CPU.Build.0 = BelowZero|Any CPU
+		{B010FDDE-EC4C-429D-AC0B-59AC22A916A3}.Subnautica|Any CPU.ActiveCfg = Subnautica|Any CPU
+		{B010FDDE-EC4C-429D-AC0B-59AC22A916A3}.Subnautica|Any CPU.Build.0 = Subnautica|Any CPU
+		{C9D0FB3B-BD91-4CB4-8CBC-1913C379D294}.BelowZero|Any CPU.ActiveCfg = BelowZero|Any CPU
+		{C9D0FB3B-BD91-4CB4-8CBC-1913C379D294}.BelowZero|Any CPU.Build.0 = BelowZero|Any CPU
+		{C9D0FB3B-BD91-4CB4-8CBC-1913C379D294}.Subnautica|Any CPU.ActiveCfg = Subnautica|Any CPU
+		{C9D0FB3B-BD91-4CB4-8CBC-1913C379D294}.Subnautica|Any CPU.Build.0 = Subnautica|Any CPU
+		{A0DF8E20-93B5-472A-9E2F-A673022FE08A}.BelowZero|Any CPU.ActiveCfg = BelowZero|Any CPU
+		{A0DF8E20-93B5-472A-9E2F-A673022FE08A}.BelowZero|Any CPU.Build.0 = BelowZero|Any CPU
+		{A0DF8E20-93B5-472A-9E2F-A673022FE08A}.Subnautica|Any CPU.ActiveCfg = Subnautica|Any CPU
+		{A0DF8E20-93B5-472A-9E2F-A673022FE08A}.Subnautica|Any CPU.Build.0 = Subnautica|Any CPU
+		{2838053C-A418-4959-8910-7761411FAA13}.BelowZero|Any CPU.ActiveCfg = BelowZero|Any CPU
+		{2838053C-A418-4959-8910-7761411FAA13}.BelowZero|Any CPU.Build.0 = BelowZero|Any CPU
+		{2838053C-A418-4959-8910-7761411FAA13}.Subnautica|Any CPU.ActiveCfg = Subnautica|Any CPU
+		{2838053C-A418-4959-8910-7761411FAA13}.Subnautica|Any CPU.Build.0 = Subnautica|Any CPU
+		{30A793B6-1738-4267-B539-F1D0B7C57AF6}.BelowZero|Any CPU.ActiveCfg = BelowZero|Any CPU
+		{30A793B6-1738-4267-B539-F1D0B7C57AF6}.BelowZero|Any CPU.Build.0 = BelowZero|Any CPU
+		{30A793B6-1738-4267-B539-F1D0B7C57AF6}.Subnautica|Any CPU.ActiveCfg = Subnautica|Any CPU
+		{30A793B6-1738-4267-B539-F1D0B7C57AF6}.Subnautica|Any CPU.Build.0 = Subnautica|Any CPU
+		{A5312E4B-0F3D-4C8C-84A7-A7063813E176}.BelowZero|Any CPU.ActiveCfg = BelowZero|Any CPU
+		{A5312E4B-0F3D-4C8C-84A7-A7063813E176}.BelowZero|Any CPU.Build.0 = BelowZero|Any CPU
+		{A5312E4B-0F3D-4C8C-84A7-A7063813E176}.Subnautica|Any CPU.ActiveCfg = Subnautica|Any CPU
+		{A5312E4B-0F3D-4C8C-84A7-A7063813E176}.Subnautica|Any CPU.Build.0 = Subnautica|Any CPU
+		{44A5CC6D-13A0-450F-B539-9DEF0E3527FD}.BelowZero|Any CPU.ActiveCfg = BelowZero|Any CPU
+		{44A5CC6D-13A0-450F-B539-9DEF0E3527FD}.BelowZero|Any CPU.Build.0 = BelowZero|Any CPU
+		{44A5CC6D-13A0-450F-B539-9DEF0E3527FD}.Subnautica|Any CPU.ActiveCfg = Subnautica|Any CPU
+		{44A5CC6D-13A0-450F-B539-9DEF0E3527FD}.Subnautica|Any CPU.Build.0 = Subnautica|Any CPU
+		{44001D2F-ABAD-4C7E-83E2-269D89B4D709}.BelowZero|Any CPU.ActiveCfg = BelowZero|Any CPU
+		{44001D2F-ABAD-4C7E-83E2-269D89B4D709}.BelowZero|Any CPU.Build.0 = BelowZero|Any CPU
+		{44001D2F-ABAD-4C7E-83E2-269D89B4D709}.Subnautica|Any CPU.ActiveCfg = Subnautica|Any CPU
+		{44001D2F-ABAD-4C7E-83E2-269D89B4D709}.Subnautica|Any CPU.Build.0 = Subnautica|Any CPU
+		{6F98BF58-C150-4672-8371-2EA2DC959F3B}.BelowZero|Any CPU.ActiveCfg = BelowZero|Any CPU
+		{6F98BF58-C150-4672-8371-2EA2DC959F3B}.BelowZero|Any CPU.Build.0 = BelowZero|Any CPU
+		{6F98BF58-C150-4672-8371-2EA2DC959F3B}.Subnautica|Any CPU.ActiveCfg = Subnautica|Any CPU
+		{6F98BF58-C150-4672-8371-2EA2DC959F3B}.Subnautica|Any CPU.Build.0 = Subnautica|Any CPU
+		{F86FC707-E4DE-4929-BAE5-D6B445706D0B}.BelowZero|Any CPU.ActiveCfg = BelowZero|Any CPU
+		{F86FC707-E4DE-4929-BAE5-D6B445706D0B}.BelowZero|Any CPU.Build.0 = BelowZero|Any CPU
+		{F86FC707-E4DE-4929-BAE5-D6B445706D0B}.Subnautica|Any CPU.ActiveCfg = Subnautica|Any CPU
+		{F86FC707-E4DE-4929-BAE5-D6B445706D0B}.Subnautica|Any CPU.Build.0 = Subnautica|Any CPU
+		{BE2C4081-6C70-4F1B-A647-EF3F0194AAAA}.BelowZero|Any CPU.ActiveCfg = BelowZero|Any CPU
+		{BE2C4081-6C70-4F1B-A647-EF3F0194AAAA}.BelowZero|Any CPU.Build.0 = BelowZero|Any CPU
+		{BE2C4081-6C70-4F1B-A647-EF3F0194AAAA}.Subnautica|Any CPU.ActiveCfg = Subnautica|Any CPU
+		{BE2C4081-6C70-4F1B-A647-EF3F0194AAAA}.Subnautica|Any CPU.Build.0 = Subnautica|Any CPU
+		{0F12C791-925E-4D02-BC25-1BFE8D61D26A}.BelowZero|Any CPU.ActiveCfg = BelowZero|Any CPU
+		{0F12C791-925E-4D02-BC25-1BFE8D61D26A}.BelowZero|Any CPU.Build.0 = BelowZero|Any CPU
+		{0F12C791-925E-4D02-BC25-1BFE8D61D26A}.Subnautica|Any CPU.ActiveCfg = Subnautica|Any CPU
+		{0F12C791-925E-4D02-BC25-1BFE8D61D26A}.Subnautica|Any CPU.Build.0 = Subnautica|Any CPU
+		{90BA0ECB-1D7C-42CA-A536-7EDBE14D7D14}.BelowZero|Any CPU.ActiveCfg = BelowZero|Any CPU
+		{90BA0ECB-1D7C-42CA-A536-7EDBE14D7D14}.BelowZero|Any CPU.Build.0 = BelowZero|Any CPU
+		{90BA0ECB-1D7C-42CA-A536-7EDBE14D7D14}.Subnautica|Any CPU.ActiveCfg = Subnautica|Any CPU
+		{90BA0ECB-1D7C-42CA-A536-7EDBE14D7D14}.Subnautica|Any CPU.Build.0 = Subnautica|Any CPU
+		{78665003-B058-4A2B-A574-E77CEB5DB263}.BelowZero|Any CPU.ActiveCfg = BelowZero|Any CPU
+		{78665003-B058-4A2B-A574-E77CEB5DB263}.BelowZero|Any CPU.Build.0 = BelowZero|Any CPU
+		{78665003-B058-4A2B-A574-E77CEB5DB263}.Subnautica|Any CPU.ActiveCfg = Subnautica|Any CPU
+		{78665003-B058-4A2B-A574-E77CEB5DB263}.Subnautica|Any CPU.Build.0 = Subnautica|Any CPU
+		{C01BF687-7644-43F9-ACA5-1168B14BA487}.BelowZero|Any CPU.ActiveCfg = BelowZero|Any CPU
+		{C01BF687-7644-43F9-ACA5-1168B14BA487}.BelowZero|Any CPU.Build.0 = BelowZero|Any CPU
+		{C01BF687-7644-43F9-ACA5-1168B14BA487}.Subnautica|Any CPU.ActiveCfg = Subnautica|Any CPU
+		{C01BF687-7644-43F9-ACA5-1168B14BA487}.Subnautica|Any CPU.Build.0 = Subnautica|Any CPU
+		{421C97E8-33A1-4724-B7D2-3B334EB641E7}.BelowZero|Any CPU.ActiveCfg = BelowZero|Any CPU
+		{421C97E8-33A1-4724-B7D2-3B334EB641E7}.BelowZero|Any CPU.Build.0 = BelowZero|Any CPU
+		{421C97E8-33A1-4724-B7D2-3B334EB641E7}.Subnautica|Any CPU.ActiveCfg = Subnautica|Any CPU
+		{421C97E8-33A1-4724-B7D2-3B334EB641E7}.Subnautica|Any CPU.Build.0 = Subnautica|Any CPU
+		{1F869A1B-49C0-4982-91B1-9E3BEBA888A6}.BelowZero|Any CPU.ActiveCfg = BelowZero|Any CPU
+		{1F869A1B-49C0-4982-91B1-9E3BEBA888A6}.BelowZero|Any CPU.Build.0 = BelowZero|Any CPU
+		{1F869A1B-49C0-4982-91B1-9E3BEBA888A6}.Subnautica|Any CPU.ActiveCfg = Subnautica|Any CPU
+		{1F869A1B-49C0-4982-91B1-9E3BEBA888A6}.Subnautica|Any CPU.Build.0 = Subnautica|Any CPU
+		{21819A8D-0FC5-4B11-B8BF-DE4B059093FE}.BelowZero|Any CPU.ActiveCfg = BelowZero|Any CPU
+		{21819A8D-0FC5-4B11-B8BF-DE4B059093FE}.BelowZero|Any CPU.Build.0 = BelowZero|Any CPU
+		{21819A8D-0FC5-4B11-B8BF-DE4B059093FE}.Subnautica|Any CPU.ActiveCfg = Subnautica|Any CPU
+		{21819A8D-0FC5-4B11-B8BF-DE4B059093FE}.Subnautica|Any CPU.Build.0 = Subnautica|Any CPU
+		{4B73A86C-8B5D-4401-9593-EBC74DD7DC04}.BelowZero|Any CPU.ActiveCfg = BelowZero|Any CPU
+		{4B73A86C-8B5D-4401-9593-EBC74DD7DC04}.BelowZero|Any CPU.Build.0 = BelowZero|Any CPU
+		{4B73A86C-8B5D-4401-9593-EBC74DD7DC04}.Subnautica|Any CPU.ActiveCfg = Subnautica|Any CPU
+		{4B73A86C-8B5D-4401-9593-EBC74DD7DC04}.Subnautica|Any CPU.Build.0 = Subnautica|Any CPU
+		{88F3078C-A24C-463D-AA22-B260AA981D84}.BelowZero|Any CPU.ActiveCfg = BelowZero|Any CPU
+		{88F3078C-A24C-463D-AA22-B260AA981D84}.BelowZero|Any CPU.Build.0 = BelowZero|Any CPU
+		{88F3078C-A24C-463D-AA22-B260AA981D84}.Subnautica|Any CPU.ActiveCfg = Subnautica|Any CPU
+		{88F3078C-A24C-463D-AA22-B260AA981D84}.Subnautica|Any CPU.Build.0 = Subnautica|Any CPU
+		{3F81BDF1-8E4E-430C-86EC-B060F859B4CD}.BelowZero|Any CPU.ActiveCfg = BelowZero|Any CPU
+		{3F81BDF1-8E4E-430C-86EC-B060F859B4CD}.Subnautica|Any CPU.ActiveCfg = Subnautica|Any CPU
+		{3F81BDF1-8E4E-430C-86EC-B060F859B4CD}.Subnautica|Any CPU.Build.0 = Subnautica|Any CPU
+		{FBAA1084-617A-47B5-9CBF-647DFAA3ABF9}.BelowZero|Any CPU.ActiveCfg = BelowZero|Any CPU
+		{FBAA1084-617A-47B5-9CBF-647DFAA3ABF9}.BelowZero|Any CPU.Build.0 = BelowZero|Any CPU
+		{FBAA1084-617A-47B5-9CBF-647DFAA3ABF9}.Subnautica|Any CPU.ActiveCfg = Subnautica|Any CPU
+		{FBAA1084-617A-47B5-9CBF-647DFAA3ABF9}.Subnautica|Any CPU.Build.0 = Subnautica|Any CPU
+		{BD871602-51F5-4113-9595-4FAE8220F369}.BelowZero|Any CPU.ActiveCfg = BelowZero|Any CPU
+		{BD871602-51F5-4113-9595-4FAE8220F369}.BelowZero|Any CPU.Build.0 = BelowZero|Any CPU
+		{BD871602-51F5-4113-9595-4FAE8220F369}.Subnautica|Any CPU.ActiveCfg = Subnautica|Any CPU
+		{BD871602-51F5-4113-9595-4FAE8220F369}.Subnautica|Any CPU.Build.0 = Subnautica|Any CPU
+		{14B3637E-DA55-4B17-B4FD-12698FA9FEB4}.BelowZero|Any CPU.ActiveCfg = BelowZero|Any CPU
+		{14B3637E-DA55-4B17-B4FD-12698FA9FEB4}.BelowZero|Any CPU.Build.0 = BelowZero|Any CPU
+		{14B3637E-DA55-4B17-B4FD-12698FA9FEB4}.Subnautica|Any CPU.ActiveCfg = Subnautica|Any CPU
+		{14B3637E-DA55-4B17-B4FD-12698FA9FEB4}.Subnautica|Any CPU.Build.0 = Subnautica|Any CPU
+		{62BDA728-E174-4C67-8744-ACF2C57DEE88}.BelowZero|Any CPU.ActiveCfg = BelowZero|Any CPU
+		{62BDA728-E174-4C67-8744-ACF2C57DEE88}.BelowZero|Any CPU.Build.0 = BelowZero|Any CPU
+		{62BDA728-E174-4C67-8744-ACF2C57DEE88}.Subnautica|Any CPU.ActiveCfg = Subnautica|Any CPU
+		{62BDA728-E174-4C67-8744-ACF2C57DEE88}.Subnautica|Any CPU.Build.0 = Subnautica|Any CPU
+		{035989F1-4A9D-49DD-B71A-CE679267A844}.BelowZero|Any CPU.ActiveCfg = BelowZero|Any CPU
+		{035989F1-4A9D-49DD-B71A-CE679267A844}.BelowZero|Any CPU.Build.0 = BelowZero|Any CPU
+		{035989F1-4A9D-49DD-B71A-CE679267A844}.Subnautica|Any CPU.ActiveCfg = Subnautica|Any CPU
+		{035989F1-4A9D-49DD-B71A-CE679267A844}.Subnautica|Any CPU.Build.0 = Subnautica|Any CPU
+		{D428FC37-464D-4AAC-BFA0-78C63E25F546}.BelowZero|Any CPU.ActiveCfg = BelowZero|Any CPU
+		{D428FC37-464D-4AAC-BFA0-78C63E25F546}.Subnautica|Any CPU.ActiveCfg = Subnautica|Any CPU
+		{D428FC37-464D-4AAC-BFA0-78C63E25F546}.Subnautica|Any CPU.Build.0 = Subnautica|Any CPU
+		{375ECA3C-4B94-462A-9348-7EB5C15C86CA}.BelowZero|Any CPU.ActiveCfg = BelowZero|Any CPU
+		{375ECA3C-4B94-462A-9348-7EB5C15C86CA}.Subnautica|Any CPU.ActiveCfg = Subnautica|Any CPU
+		{375ECA3C-4B94-462A-9348-7EB5C15C86CA}.Subnautica|Any CPU.Build.0 = Subnautica|Any CPU
+		{9318D667-C0E6-432F-B26A-D77324DC1E99}.BelowZero|Any CPU.ActiveCfg = BelowZero|Any CPU
+		{9318D667-C0E6-432F-B26A-D77324DC1E99}.Subnautica|Any CPU.ActiveCfg = Subnautica|Any CPU
+		{9318D667-C0E6-432F-B26A-D77324DC1E99}.Subnautica|Any CPU.Build.0 = Subnautica|Any CPU
+		{E9E4C958-092E-43DA-8FCC-0C1495B4D5E1}.BelowZero|Any CPU.ActiveCfg = BelowZero|Any CPU
+		{E9E4C958-092E-43DA-8FCC-0C1495B4D5E1}.Subnautica|Any CPU.ActiveCfg = Subnautica|Any CPU
+		{E9E4C958-092E-43DA-8FCC-0C1495B4D5E1}.Subnautica|Any CPU.Build.0 = Subnautica|Any CPU
+		{CF1FB9FC-5797-4198-81D1-872841F88098}.BelowZero|Any CPU.ActiveCfg = BelowZero|Any CPU
+		{CF1FB9FC-5797-4198-81D1-872841F88098}.Subnautica|Any CPU.ActiveCfg = Subnautica|Any CPU
+		{CF1FB9FC-5797-4198-81D1-872841F88098}.Subnautica|Any CPU.Build.0 = Subnautica|Any CPU
+		{878EA820-FA43-4CB1-A90A-843505537BD9}.BelowZero|Any CPU.ActiveCfg = BelowZero|Any CPU
+		{878EA820-FA43-4CB1-A90A-843505537BD9}.Subnautica|Any CPU.ActiveCfg = Subnautica|Any CPU
+		{878EA820-FA43-4CB1-A90A-843505537BD9}.Subnautica|Any CPU.Build.0 = Subnautica|Any CPU
+		{B9323604-EA1A-45F4-95B5-1EA077131B21}.BelowZero|Any CPU.ActiveCfg = BelowZero|Any CPU
+		{B9323604-EA1A-45F4-95B5-1EA077131B21}.Subnautica|Any CPU.ActiveCfg = Subnautica|Any CPU
+		{B9323604-EA1A-45F4-95B5-1EA077131B21}.Subnautica|Any CPU.Build.0 = Subnautica|Any CPU
+		{AB967C76-2FCB-4E86-915E-41B8A8667BCA}.BelowZero|Any CPU.ActiveCfg = BelowZero|Any CPU
+		{AB967C76-2FCB-4E86-915E-41B8A8667BCA}.Subnautica|Any CPU.ActiveCfg = Subnautica|Any CPU
+		{AB967C76-2FCB-4E86-915E-41B8A8667BCA}.Subnautica|Any CPU.Build.0 = Subnautica|Any CPU
+		{74A3377D-DA6B-4B89-8D3A-C6D1A5A43097}.BelowZero|Any CPU.ActiveCfg = BelowZero|Any CPU
+		{74A3377D-DA6B-4B89-8D3A-C6D1A5A43097}.BelowZero|Any CPU.Build.0 = BelowZero|Any CPU
+		{74A3377D-DA6B-4B89-8D3A-C6D1A5A43097}.Subnautica|Any CPU.ActiveCfg = Subnautica|Any CPU
+		{74A3377D-DA6B-4B89-8D3A-C6D1A5A43097}.Subnautica|Any CPU.Build.0 = Subnautica|Any CPU
+		{A7B39A46-A3DE-4D9B-AF65-12032992A58A}.BelowZero|Any CPU.ActiveCfg = BelowZero|Any CPU
+		{A7B39A46-A3DE-4D9B-AF65-12032992A58A}.Subnautica|Any CPU.ActiveCfg = Subnautica|Any CPU
+		{A7B39A46-A3DE-4D9B-AF65-12032992A58A}.Subnautica|Any CPU.Build.0 = Subnautica|Any CPU
+		{858FC5AD-F93C-46C2-98E5-196A8F7A2BE8}.BelowZero|Any CPU.ActiveCfg = BelowZero|Any CPU
+		{858FC5AD-F93C-46C2-98E5-196A8F7A2BE8}.BelowZero|Any CPU.Build.0 = BelowZero|Any CPU
+		{858FC5AD-F93C-46C2-98E5-196A8F7A2BE8}.Subnautica|Any CPU.ActiveCfg = Subnautica|Any CPU
+		{7004BE6E-BAD4-4013-BCD6-B8EC356A2577}.BelowZero|Any CPU.ActiveCfg = BelowZero|Any CPU
+		{7004BE6E-BAD4-4013-BCD6-B8EC356A2577}.BelowZero|Any CPU.Build.0 = BelowZero|Any CPU
+		{7004BE6E-BAD4-4013-BCD6-B8EC356A2577}.Subnautica|Any CPU.ActiveCfg = Subnautica|Any CPU
+		{7004BE6E-BAD4-4013-BCD6-B8EC356A2577}.Subnautica|Any CPU.Build.0 = Subnautica|Any CPU
+		{A5B2CB05-65EE-4AFD-BCFB-66F7CBD64C05}.BelowZero|Any CPU.ActiveCfg = BelowZero|Any CPU
+		{A5B2CB05-65EE-4AFD-BCFB-66F7CBD64C05}.BelowZero|Any CPU.Build.0 = BelowZero|Any CPU
+		{A5B2CB05-65EE-4AFD-BCFB-66F7CBD64C05}.Subnautica|Any CPU.ActiveCfg = Subnautica|Any CPU
+		{A5B2CB05-65EE-4AFD-BCFB-66F7CBD64C05}.Subnautica|Any CPU.Build.0 = Subnautica|Any CPU
+		{023B9480-B5AE-4EA0-9697-536586DF646F}.BelowZero|Any CPU.ActiveCfg = BelowZero|Any CPU
+		{023B9480-B5AE-4EA0-9697-536586DF646F}.BelowZero|Any CPU.Build.0 = BelowZero|Any CPU
+		{023B9480-B5AE-4EA0-9697-536586DF646F}.Subnautica|Any CPU.ActiveCfg = Subnautica|Any CPU
+		{023B9480-B5AE-4EA0-9697-536586DF646F}.Subnautica|Any CPU.Build.0 = Subnautica|Any CPU
+		{82695699-45E2-4C9A-B198-871108FBE79C}.BelowZero|Any CPU.ActiveCfg = BelowZero|Any CPU
+		{82695699-45E2-4C9A-B198-871108FBE79C}.BelowZero|Any CPU.Build.0 = BelowZero|Any CPU
+		{82695699-45E2-4C9A-B198-871108FBE79C}.Subnautica|Any CPU.ActiveCfg = Subnautica|Any CPU
+		{82695699-45E2-4C9A-B198-871108FBE79C}.Subnautica|Any CPU.Build.0 = Subnautica|Any CPU
+		{39616B8B-FA81-421F-8D7B-F499DED1F49F}.BelowZero|Any CPU.ActiveCfg = BelowZero|Any CPU
+		{39616B8B-FA81-421F-8D7B-F499DED1F49F}.BelowZero|Any CPU.Build.0 = BelowZero|Any CPU
+		{39616B8B-FA81-421F-8D7B-F499DED1F49F}.Subnautica|Any CPU.ActiveCfg = Subnautica|Any CPU
+		{39616B8B-FA81-421F-8D7B-F499DED1F49F}.Subnautica|Any CPU.Build.0 = Subnautica|Any CPU
+		{2F519CA0-1493-4A01-A17D-E9A93973C596}.BelowZero|Any CPU.ActiveCfg = BelowZero|Any CPU
+		{2F519CA0-1493-4A01-A17D-E9A93973C596}.BelowZero|Any CPU.Build.0 = BelowZero|Any CPU
+		{2F519CA0-1493-4A01-A17D-E9A93973C596}.Subnautica|Any CPU.ActiveCfg = Subnautica|Any CPU
+		{2F519CA0-1493-4A01-A17D-E9A93973C596}.Subnautica|Any CPU.Build.0 = Subnautica|Any CPU
+		{BE21796E-1166-44C6-B046-94BDB583E15C}.BelowZero|Any CPU.ActiveCfg = BelowZero|Any CPU
+		{BE21796E-1166-44C6-B046-94BDB583E15C}.BelowZero|Any CPU.Build.0 = BelowZero|Any CPU
+		{BE21796E-1166-44C6-B046-94BDB583E15C}.Subnautica|Any CPU.ActiveCfg = Subnautica|Any CPU
+		{BE21796E-1166-44C6-B046-94BDB583E15C}.Subnautica|Any CPU.Build.0 = Subnautica|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40E4FE21-6870-4BD5-9623-027E2D6F54A5}
+	EndGlobalSection
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		PVD's Mods\Common\Common.projitems*{023b9480-b5ae-4ea0-9697-536586df646f}*SharedItemsImports = 5
+		Common\Common.projitems*{035989f1-4a9d-49dd-b71a-ce679267a844}*SharedItemsImports = 5
+		PrimeSonicSubnauticaMods\EasyMarkup\EasyMarkup.projitems*{14b3637e-da55-4b17-b4fd-12698fa9feb4}*SharedItemsImports = 5
+		Common\Common.projitems*{2f519ca0-1493-4a01-a17d-e9a93973c596}*SharedItemsImports = 5
+		PrimeSonicSubnauticaMods\EasyMarkup\EasyMarkup.projitems*{62bda728-e174-4c67-8744-acf2c57dee88}*SharedItemsImports = 5
+		PrimeSonicSubnauticaMods\EasyMarkup\EasyMarkup.projitems*{7004be6e-bad4-4013-bcd6-b8ec356a2577}*SharedItemsImports = 5
+		PrimeSonicSubnauticaMods\EasyMarkup\EasyMarkup.projitems*{7b713bfd-3d84-44cf-bf86-35b1812646cb}*SharedItemsImports = 13
+		Common\Common.projitems*{91d8d243-2590-4911-a827-c4c929e0ab69}*SharedItemsImports = 13
+		PVD's Mods\Common\Common.projitems*{a5b2cb05-65ee-4afd-bcfb-66f7cbd64c05}*SharedItemsImports = 5
+		PrimeSonicSubnauticaMods\EasyMarkup\EasyMarkup.projitems*{a7b39a46-a3de-4d9b-af65-12032992a58a}*SharedItemsImports = 5
+		Common\Common.projitems*{bd871602-51f5-4113-9595-4fae8220f369}*SharedItemsImports = 5
+		Common\Common.projitems*{cf1fb9fc-5797-4198-81d1-872841f88098}*SharedItemsImports = 5
+		Common\Common.projitems*{e9e4c958-092e-43da-8fcc-0c1495b4d5e1}*SharedItemsImports = 5
+		Common\Common.projitems*{fbaa1084-617a-47b5-9cbf-647dfaa3abf9}*SharedItemsImports = 5
+	EndGlobalSection
+EndGlobal
