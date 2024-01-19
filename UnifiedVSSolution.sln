@@ -435,7 +435,6 @@ Global
 		{2F519CA0-1493-4A01-A17D-E9A93973C596}.Subnautica|Any CPU.ActiveCfg = Subnautica|Any CPU
 		{2F519CA0-1493-4A01-A17D-E9A93973C596}.Subnautica|Any CPU.Build.0 = Subnautica|Any CPU
 		{BE21796E-1166-44C6-B046-94BDB583E15C}.BelowZero|Any CPU.ActiveCfg = BelowZero|Any CPU
-		{BE21796E-1166-44C6-B046-94BDB583E15C}.BelowZero|Any CPU.Build.0 = BelowZero|Any CPU
 		{BE21796E-1166-44C6-B046-94BDB583E15C}.Subnautica|Any CPU.ActiveCfg = Subnautica|Any CPU
 		{BE21796E-1166-44C6-B046-94BDB583E15C}.Subnautica|Any CPU.Build.0 = Subnautica|Any CPU
 	EndGlobalSection
