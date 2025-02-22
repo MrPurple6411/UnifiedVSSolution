@@ -19,3 +19,6 @@
 [submodule "RandyKnappMods"]
 	path = RandyKnappMods
 	url = https://github.com/MrPurple6411/RandyKnappMods
+[submodule "LukeVoMods"]
+	path = LukeVoMods
+	url = https://github.com/MrPurple6411/LukeVoMods
