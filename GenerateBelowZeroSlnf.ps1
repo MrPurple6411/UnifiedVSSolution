@@ -6,6 +6,14 @@ $outputPath = "BelowZero.slnf"
 $excludedProjects = @(
     "PrimeSonicSubnauticaMods/MidGameBatteries/MidGameBatteries.csproj"
 )
+function Should-ExcludeProject([string]$normalizedPath) {
+    foreach ($excluded in $excludedProjects) {
+        if ($normalizedPath -eq $excluded) { return $true }
+    }
+    if ($normalizedPath -match '/[^/]*Tests\.csproj$') { return $true }
+    if ($normalizedPath -match '/Tests/[^/]+\.csproj$') { return $true }
+    return $false
+}
 
 # Get all GUIDs that have BelowZero Build.0 entries
 $belowZeroGuids = Select-String -Path $solutionPath -Pattern "\.BelowZero\|Any CPU\.Build\.0 = BelowZero\|Any CPU" | 
@@ -30,13 +38,9 @@ foreach ($guid in $belowZeroGuids) {
             
             # Check if project should be excluded
             $normalizedPath = $projectPath -replace '\\', '/'
-            $shouldExclude = $false
-            foreach ($excluded in $excludedProjects) {
-                if ($normalizedPath -eq $excluded) {
-                    $shouldExclude = $true
-                    Write-Host "Excluding problematic project: $projectPath" -ForegroundColor Yellow
-                    break
-                }
+            $shouldExclude = Should-ExcludeProject $normalizedPath
+            if ($shouldExclude) {
+                Write-Host "Excluding project: $projectPath" -ForegroundColor Yellow
             }
             
             if (-not $shouldExclude) {

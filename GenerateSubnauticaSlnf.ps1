@@ -6,6 +6,16 @@ $outputPath = "Subnautica.slnf"
 $excludedProjects = @(
     "PrimeSonicSubnauticaMods/MidGameBatteries/MidGameBatteries.csproj"
 )
+function Should-ExcludeProject([string]$normalizedPath) {
+    # Exclude explicit known-bad projects
+    foreach ($excluded in $excludedProjects) {
+        if ($normalizedPath -eq $excluded) { return $true }
+    }
+    # Exclude test projects by convention
+    if ($normalizedPath -match '/[^/]*Tests\.csproj$') { return $true }
+    if ($normalizedPath -match '/Tests/[^/]+\.csproj$') { return $true }
+    return $false
+}
 
 # Get all GUIDs that have Subnautica Build.0 entries
 $subnauticaGuids = Select-String -Path $solutionPath -Pattern "\.Subnautica\|Any CPU\.Build\.0 = Subnautica\|Any CPU" | 
@@ -30,13 +40,9 @@ foreach ($guid in $subnauticaGuids) {
             
             # Check if project should be excluded
             $normalizedPath = $projectPath -replace '\\', '/'
-            $shouldExclude = $false
-            foreach ($excluded in $excludedProjects) {
-                if ($normalizedPath -eq $excluded) {
-                    $shouldExclude = $true
-                    Write-Host "Excluding problematic project: $projectPath" -ForegroundColor Yellow
-                    break
-                }
+            $shouldExclude = Should-ExcludeProject $normalizedPath
+            if ($shouldExclude) {
+                Write-Host "Excluding project: $projectPath" -ForegroundColor Yellow
             }
             
             if (-not $shouldExclude) {
