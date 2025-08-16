@@ -6,7 +6,7 @@
 
 I have an established automated version management system for a C# Subnautica mod project. The foundation is complete with:
 
-✅ 100% deterministic builds verified (130 mods)
+✅ 100% deterministic builds verified (129 mods)
 ✅ Hash-based version tracking system (`manage-versions.ps1`) 
 ✅ Clean JSON baseline with current state (`mod-versions.json`)
 ✅ Enhanced build scripts with selective configuration support
