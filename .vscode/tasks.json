@@ -1,0 +1,53 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Build and report Subnautica after API fixes",
+			"type": "shell",
+			"command": "powershell",
+			"args": [
+				"-ExecutionPolicy",
+				"Bypass",
+				"-File",
+				"c:\\Repos\\MrPurple6411\\UnifiedSubnautica\\Tools\\Build-Report-Subnautica.ps1",
+				"-Rebuild"
+			],
+			"problemMatcher": [
+				"$msCompile"
+			],
+			"group": "build"
+		},
+		{
+			"label": "Rebuild Subnautica after follow-up fixes",
+			"type": "shell",
+			"command": "powershell",
+			"args": [
+				"-ExecutionPolicy",
+				"Bypass",
+				"-File",
+				"c:\\Repos\\MrPurple6411\\UnifiedSubnautica\\Tools\\Build-Report-Subnautica.ps1",
+				"-Rebuild"
+			],
+			"problemMatcher": [
+				"$msCompile"
+			],
+			"group": "build"
+		},
+		{
+			"label": "Rebuild Subnautica after final Sprite imports",
+			"type": "shell",
+			"command": "powershell",
+			"args": [
+				"-ExecutionPolicy",
+				"Bypass",
+				"-File",
+				"c:\\Repos\\MrPurple6411\\UnifiedSubnautica\\Tools\\Build-Report-Subnautica.ps1",
+				"-Rebuild"
+			],
+			"problemMatcher": [
+				"$msCompile"
+			],
+			"group": "build"
+		}
+	]
+}
