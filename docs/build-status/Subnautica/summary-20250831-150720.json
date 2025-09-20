@@ -1,0 +1,562 @@
+﻿[
+    {
+        "project":  "AIOFabricator",
+        "assembly":  "AIOFabricator",
+        "status":  "succeeded",
+        "sampleErrors":  {
+
+                         }
+    },
+    {
+        "project":  "AllItems1x1",
+        "assembly":  "AllItems1x1",
+        "status":  "succeeded",
+        "sampleErrors":  {
+
+                         }
+    },
+    {
+        "project":  "AutoScanningChip",
+        "assembly":  "AutoScanningChip",
+        "status":  "succeeded",
+        "sampleErrors":  {
+
+                         }
+    },
+    {
+        "project":  "BaseKits",
+        "assembly":  "BaseKits",
+        "status":  "succeeded",
+        "sampleErrors":  {
+
+                         }
+    },
+    {
+        "project":  "BaseLegsRemoval",
+        "assembly":  "BaseLegsRemoval",
+        "status":  "succeeded",
+        "sampleErrors":  {
+
+                         }
+    },
+    {
+        "project":  "BetterACU",
+        "assembly":  "BetterACU",
+        "status":  "succeeded",
+        "sampleErrors":  {
+
+                         }
+    },
+    {
+        "project":  "BetterBioReactor",
+        "assembly":  "BetterBioReactor",
+        "status":  "succeeded",
+        "sampleErrors":  {
+
+                         }
+    },
+    {
+        "project":  "BetterScannerBlips",
+        "assembly":  "BetterScannerBlips",
+        "status":  "succeeded",
+        "sampleErrors":  {
+
+                         }
+    },
+    {
+        "project":  "BetterScannerRoom",
+        "assembly":  "BetterScannerRoom",
+        "status":  "succeeded",
+        "sampleErrors":  {
+
+                         }
+    },
+    {
+        "project":  "BetterVehicleStorage",
+        "assembly":  "BetterVehicleStorage",
+        "status":  "succeeded",
+        "sampleErrors":  {
+
+                         }
+    },
+    {
+        "project":  "BuilderModule",
+        "assembly":  "BuilderModule",
+        "status":  "succeeded",
+        "sampleErrors":  {
+
+                         }
+    },
+    {
+        "project":  "BuildingTweaks",
+        "assembly":  "BuildingTweaks",
+        "status":  "succeeded",
+        "sampleErrors":  {
+
+                         }
+    },
+    {
+        "project":  "ChargeRequired",
+        "assembly":  "ChargeRequired",
+        "status":  "succeeded",
+        "sampleErrors":  {
+
+                         }
+    },
+    {
+        "project":  "ConfigurableChunkDrops",
+        "assembly":  "ConfigurableChunkDrops",
+        "status":  "succeeded",
+        "sampleErrors":  {
+
+                         }
+    },
+    {
+        "project":  "ConfigurableDrillableCount",
+        "assembly":  "ConfigurableDrillableCount",
+        "status":  "succeeded",
+        "sampleErrors":  {
+
+                         }
+    },
+    {
+        "project":  "CopperFromScanning",
+        "assembly":  "CopperFromScanning",
+        "status":  "succeeded",
+        "sampleErrors":  {
+
+                         }
+    },
+    {
+        "project":  "CreaturesFleeLess",
+        "assembly":  "CreaturesFleeLess",
+        "status":  "succeeded",
+        "sampleErrors":  {
+
+                         }
+    },
+    {
+        "project":  "CustomBatteries",
+        "assembly":  "CustomBatteries",
+        "status":  "succeeded",
+        "sampleErrors":  {
+
+                         }
+    },
+    {
+        "project":  "CustomCommands",
+        "assembly":  "CustomCommands",
+        "status":  "succeeded",
+        "sampleErrors":  {
+
+                         }
+    },
+    {
+        "project":  "CustomCraft3",
+        "assembly":  "CustomCraft3",
+        "status":  "succeeded",
+        "sampleErrors":  {
+
+                         }
+    },
+    {
+        "project":  "CustomHullPlates",
+        "assembly":  "CustomHullPlates",
+        "status":  "succeeded",
+        "sampleErrors":  {
+
+                         }
+    },
+    {
+        "project":  "CustomizeYourSpawns",
+        "assembly":  "CustomizeYourSpawns",
+        "status":  "succeeded",
+        "sampleErrors":  {
+
+                         }
+    },
+    {
+        "project":  "CustomPosters",
+        "assembly":  "CustomPosters",
+        "status":  "succeeded",
+        "sampleErrors":  {
+
+                         }
+    },
+    {
+        "project":  "CyclopsArmorUpgrades",
+        "assembly":  "CyclopsArmorUpgrades",
+        "status":  "succeeded",
+        "sampleErrors":  {
+
+                         }
+    },
+    {
+        "project":  "CyclopsAutoZapper",
+        "assembly":  "CyclopsAutoZapper",
+        "status":  "succeeded",
+        "sampleErrors":  {
+
+                         }
+    },
+    {
+        "project":  "CyclopsEngineUpgrades",
+        "assembly":  "CyclopsEngineUpgrades",
+        "status":  "succeeded",
+        "sampleErrors":  {
+
+                         }
+    },
+    {
+        "project":  "CyclopsEnhancedSonar",
+        "assembly":  "CyclopsEnhancedSonar",
+        "status":  "succeeded",
+        "sampleErrors":  {
+
+                         }
+    },
+    {
+        "project":  "CyclopsNuclearUpgrades",
+        "assembly":  "CyclopsNuclearUpgrades",
+        "status":  "succeeded",
+        "sampleErrors":  {
+
+                         }
+    },
+    {
+        "project":  "CyclopsSimpleSolar",
+        "assembly":  "CyclopsSimpleSolar",
+        "status":  "succeeded",
+        "sampleErrors":  {
+
+                         }
+    },
+    {
+        "project":  "CyclopsSolarUpgrades",
+        "assembly":  "CyclopsSolarUpgrades",
+        "status":  "succeeded",
+        "sampleErrors":  {
+
+                         }
+    },
+    {
+        "project":  "CyclopsSpeedUpgrades",
+        "assembly":  "CyclopsSpeedUpgrades",
+        "status":  "succeeded",
+        "sampleErrors":  {
+
+                         }
+    },
+    {
+        "project":  "CyclopsThermalUpgrades",
+        "assembly":  "CyclopsThermalUpgrades",
+        "status":  "succeeded",
+        "sampleErrors":  {
+
+                         }
+    },
+    {
+        "project":  "Defabricator",
+        "assembly":  "Defabricator",
+        "status":  "succeeded",
+        "sampleErrors":  {
+
+                         }
+    },
+    {
+        "project":  "DropUpgradesOnDestroy",
+        "assembly":  "DropUpgradesOnDestroy",
+        "status":  "succeeded",
+        "sampleErrors":  {
+
+                         }
+    },
+    {
+        "project":  "ExtraOptions",
+        "assembly":  "ExtraOptions",
+        "status":  "succeeded",
+        "sampleErrors":  {
+
+                         }
+    },
+    {
+        "project":  "FabricatorNoAutoClose",
+        "assembly":  "FabricatorNoAutoClose",
+        "status":  "succeeded",
+        "sampleErrors":  {
+
+                         }
+    },
+    {
+        "project":  "GravTrapStorage",
+        "assembly":  "GravTrapStorage",
+        "status":  "succeeded",
+        "sampleErrors":  {
+
+                         }
+    },
+    {
+        "project":  "ImprovedPowerNetwork",
+        "assembly":  "ImprovedPowerNetwork",
+        "status":  "succeeded",
+        "sampleErrors":  {
+
+                         }
+    },
+    {
+        "project":  "Increased Resource Spawns",
+        "assembly":  "IncreasedResourceSpawns",
+        "status":  "failed",
+        "sampleErrors":  {
+
+                         }
+    },
+    {
+        "project":  "IncreasedChunkDrops",
+        "assembly":  "IncreasedChunkDrops",
+        "status":  "succeeded",
+        "sampleErrors":  {
+
+                         }
+    },
+    {
+        "project":  "InstantBulkheadAnimations",
+        "assembly":  "InstantBulkheadAnimations",
+        "status":  "succeeded",
+        "sampleErrors":  {
+
+                         }
+    },
+    {
+        "project":  "IslandCloudRemoval",
+        "assembly":  "IslandCloudRemoval",
+        "status":  "succeeded",
+        "sampleErrors":  {
+
+                         }
+    },
+    {
+        "project":  "Keep Inventory On Death",
+        "assembly":  "KeepInventoryOnDeath",
+        "status":  "failed",
+        "sampleErrors":  {
+
+                         }
+    },
+    {
+        "project":  "MoreCyclopsUpgrades",
+        "assembly":  "MoreCyclopsUpgrades",
+        "status":  "succeeded",
+        "sampleErrors":  {
+
+                         }
+    },
+    {
+        "project":  "MoreModifiedItems",
+        "assembly":  "MoreModifiedItems",
+        "status":  "succeeded",
+        "sampleErrors":  {
+
+                         }
+    },
+    {
+        "project":  "MoreSeamothDepth",
+        "assembly":  "MoreSeamothDepth",
+        "status":  "succeeded",
+        "sampleErrors":  {
+
+                         }
+    },
+    {
+        "project":  "NoCrosshair",
+        "assembly":  "NoCrosshair",
+        "status":  "succeeded",
+        "sampleErrors":  {
+
+                         }
+    },
+    {
+        "project":  "NoEatingSounds",
+        "assembly":  "NoEatingSounds",
+        "status":  "succeeded",
+        "sampleErrors":  {
+
+                         }
+    },
+    {
+        "project":  "NoMagicLights",
+        "assembly":  "NoMagicLights",
+        "status":  "succeeded",
+        "sampleErrors":  {
+
+                         }
+    },
+    {
+        "project":  "NoMask",
+        "assembly":  "NoMask",
+        "status":  "succeeded",
+        "sampleErrors":  {
+
+                         }
+    },
+    {
+        "project":  "NoMenuPause",
+        "assembly":  "NoMenuPause",
+        "status":  "succeeded",
+        "sampleErrors":  {
+
+                         }
+    },
+    {
+        "project":  "NoOxygenWarnings",
+        "assembly":  "NoOxygenWarnings",
+        "status":  "succeeded",
+        "sampleErrors":  {
+
+                         }
+    },
+    {
+        "project":  "PersistentCommands",
+        "assembly":  "PersistentCommands",
+        "status":  "succeeded",
+        "sampleErrors":  {
+
+                         }
+    },
+    {
+        "project":  "PickupableStorageEnhanced",
+        "assembly":  "PickupableStorageEnhanced",
+        "status":  "succeeded",
+        "sampleErrors":  {
+
+                         }
+    },
+    {
+        "project":  "PowerOrder",
+        "assembly":  "PowerOrder",
+        "status":  "succeeded",
+        "sampleErrors":  {
+
+                         }
+    },
+    {
+        "project":  "Pridenautica",
+        "assembly":  "Pridenautica",
+        "status":  "succeeded",
+        "sampleErrors":  {
+
+                         }
+    },
+    {
+        "project":  "QuitToDesktop",
+        "assembly":  "QuitToDesktop",
+        "status":  "succeeded",
+        "sampleErrors":  {
+
+                         }
+    },
+    {
+        "project":  "RadialTabs",
+        "assembly":  "RadialTabs",
+        "status":  "succeeded",
+        "sampleErrors":  {
+
+                         }
+    },
+    {
+        "project":  "RandomCreatureSize",
+        "assembly":  "RandomCreatureSize",
+        "status":  "succeeded",
+        "sampleErrors":  {
+
+                         }
+    },
+    {
+        "project":  "ScannableTimeCapsules",
+        "assembly":  "ScannableTimeCapsules",
+        "status":  "succeeded",
+        "sampleErrors":  {
+
+                         }
+    },
+    {
+        "project":  "SeamothThermal",
+        "assembly":  "SeamothThermal",
+        "status":  "succeeded",
+        "sampleErrors":  {
+
+                         }
+    },
+    {
+        "project":  "SolidTerrain",
+        "assembly":  "SolidTerrain",
+        "status":  "succeeded",
+        "sampleErrors":  {
+
+                         }
+    },
+    {
+        "project":  "SpecialtyManifold",
+        "assembly":  "SpecialtyManifold",
+        "status":  "succeeded",
+        "sampleErrors":  {
+
+                         }
+    },
+    {
+        "project":  "TechPistol",
+        "assembly":  "TechPistol",
+        "status":  "succeeded",
+        "sampleErrors":  {
+
+                         }
+    },
+    {
+        "project":  "Time Eternal",
+        "assembly":  "TimeEternal",
+        "status":  "failed",
+        "sampleErrors":  {
+
+                         }
+    },
+    {
+        "project":  "ToolInspection",
+        "assembly":  "ToolInspection",
+        "status":  "succeeded",
+        "sampleErrors":  {
+
+                         }
+    },
+    {
+        "project":  "UnknownName",
+        "assembly":  "UnknownName",
+        "status":  "succeeded",
+        "sampleErrors":  {
+
+                         }
+    },
+    {
+        "project":  "UnobtaniumBatteries",
+        "assembly":  "UnobtaniumBatteries",
+        "status":  "succeeded",
+        "sampleErrors":  {
+
+                         }
+    },
+    {
+        "project":  "UpgradedVehicles",
+        "assembly":  "UpgradedVehicles",
+        "status":  "succeeded",
+        "sampleErrors":  {
+
+                         }
+    },
+    {
+        "project":  "WarpersNoWarping",
+        "assembly":  "WarpersNoWarping",
+        "status":  "succeeded",
+        "sampleErrors":  {
+
+                         }
+    }
+]

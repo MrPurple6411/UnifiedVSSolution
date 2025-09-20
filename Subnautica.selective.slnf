@@ -1,0 +1,8 @@
+﻿{
+    "solution":  {
+                     "path":  "UnifiedVSSolution.sln",
+                     "projects":  [
+                                      "MrPurple6411-Subnautica-Mods/AutoScanningChip/AutoScanningChip.csproj"
+                                  ]
+                 }
+}

@@ -1,785 +1,785 @@
 ﻿{
   "BelowZero":  {
     "BetterBioReactor":  {
-      "lastChanged":  "2025-07-12T22:12:07Z",
+      "lastChanged":  "2025-08-16T15:49:09Z",
       "dllPath":  "bin/BelowZero/BetterBioReactor/BetterBioReactor.dll",
-      "version":  "1.0.0.0",
-      "hash":  "AF1A8ECD63B7B67266BD9C00E545AABF95041E69C056C4FBA15309C1CB55FB00"
+      "version":  "1.0.1",
+      "hash":  "869149CC6E2D0A741BFB4BE8C51BA31F10A667FF01106F4890FEA1F4E59FC803"
     },
     "BetterACU":  {
-      "lastChanged":  "2025-07-12T22:12:06Z",
+      "lastChanged":  "2025-08-16T15:49:08Z",
       "dllPath":  "bin/BelowZero/BetterACU/BetterACU.dll",
-      "version":  "2.0.2",
-      "hash":  "5BD7AA35E7D39D52C5E0500108DF0E381122D92A432C8F3FE2D89C72D7B96756"
+      "version":  "2.0.3",
+      "hash":  "CEF68471E6AAD3053B21A0E0740F6B8B65B6286AEDD12BF7BDE01F65E2AF3B8C"
     },
     "BetterScannerRoom":  {
-      "lastChanged":  "2025-07-12T22:12:06Z",
+      "lastChanged":  "2025-08-16T15:49:08Z",
       "dllPath":  "bin/BelowZero/BetterScannerRoom/BetterScannerRoom.dll",
-      "version":  "2.0.0.0",
-      "hash":  "91E0347233FC23A34E054A809FBAEC6E74145DE53C0263F048E6CBEBE80D7565"
+      "version":  "2.0.1",
+      "hash":  "6729824505816D3516EBD4C7C54437FB848D925F3E41FDAE61D4B06C29EDA44E"
     },
     "AIOFabricator":  {
-      "lastChanged":  "2025-07-12T22:12:07Z",
+      "lastChanged":  "2025-08-16T15:49:09Z",
       "dllPath":  "bin/BelowZero/AIOFabricator/AIOFabricator.dll",
-      "version":  "1.0.0.1",
-      "hash":  "BA923B85238609A28962B5D264F1454DC23A2FD0226C0B6F2811CE349C7F59C4"
+      "version":  "1.0.1",
+      "hash":  "0D963AC1BBB0E7020F53A447C315412899F221623BDCCCA6810FE9E4D67642EE"
     },
     "ConfigurableDrillableCount":  {
-      "lastChanged":  "2025-07-12T22:12:07Z",
+      "lastChanged":  "2025-08-16T15:49:09Z",
       "dllPath":  "bin/BelowZero/ConfigurableDrillableCount/ConfigurableDrillableCount.dll",
-      "version":  "2.0.0.1",
-      "hash":  "F95544151697ADC79C1C867B281D005F097884CE8316B3878D82E5CA505000C2"
+      "version":  "2.0.1",
+      "hash":  "E2735F962C0F783FB88AF258E71678B660317AAEE451BE89F959F6044C3BAC4D"
     },
     "CreaturesFleeLess":  {
-      "lastChanged":  "2025-07-12T22:12:06Z",
+      "lastChanged":  "2025-08-16T15:49:08Z",
       "dllPath":  "bin/BelowZero/CreaturesFleeLess/CreaturesFleeLess.dll",
-      "version":  "2.0.0.0",
-      "hash":  "B1DD7EEC981C555B40F9552DADC24E4026DC881EA518A7E483B6B6AA467A5B4F"
+      "version":  "2.0.1",
+      "hash":  "8E96788DE7C0DA7E0EDD262A4256BAD791D51DD8F104835D8FA9F7F1D7EB41EE"
     },
     "NoEatingSounds":  {
-      "lastChanged":  "2025-07-12T22:12:06Z",
+      "lastChanged":  "2025-08-16T15:49:08Z",
       "dllPath":  "bin/BelowZero/NoEatingSounds/NoEatingSounds.dll",
-      "version":  "2.0.0.0",
-      "hash":  "8813D754E751C8B30C7AE692B14AA8BB2AD3C4282E9B1463A6E81FB3033138C3"
+      "version":  "2.0.1",
+      "hash":  "F72ABCA26598765F566D997176725C288ECDE077C1259AAAB5089EB539A0C607"
     },
     "TechPistol":  {
-      "lastChanged":  "2025-07-12T22:12:07Z",
+      "lastChanged":  "2025-08-16T15:49:09Z",
       "dllPath":  "bin/BelowZero/TechPistol/TechPistol.dll",
-      "version":  "2.0.0.0",
-      "hash":  "CD5D0639595FE28449D03D340004562F0BB6CB18238804FD87E37DDEAF9F8836"
+      "version":  "2.0.1",
+      "hash":  "92DD9E27C3A654D8A7687ADF453AE37CB456DA2B315739D01BEEFE52177D41E4"
     },
     "RadialTabs":  {
-      "lastChanged":  "2025-07-12T22:12:07Z",
+      "lastChanged":  "2025-08-16T15:49:09Z",
       "dllPath":  "bin/BelowZero/RadialTabs/RadialTabs.dll",
-      "version":  "1.0.0",
-      "hash":  "8E6242A3D27F3F87DF6BDA591D6641B3F4B11432AE7892EF07A6C2BEBAA03764"
+      "version":  "1.0.1",
+      "hash":  "25A7F2EAB610F8247D1B8E67AFC846BF61488D5B740E3F7DC122BAF37F598ED3"
     },
     "BaseKits":  {
-      "lastChanged":  "2025-07-12T22:12:06Z",
+      "lastChanged":  "2025-08-16T15:49:08Z",
       "dllPath":  "bin/BelowZero/BaseKits/BaseKits.dll",
-      "version":  "2.0.0.0",
-      "hash":  "BA35831C1B52472EBA30663D7C332D5B1E463A973ECA4207F4BCB16D1CFB9318"
+      "version":  "2.0.1",
+      "hash":  "9F0AB8439B1E435F8EB30F1BE9E5CA1B9AD6A016446C98A382B7D9D6B1CC91F6"
     },
     "MoreModifiedItems":  {
-      "lastChanged":  "2025-07-12T22:12:06Z",
+      "lastChanged":  "2025-08-16T15:49:08Z",
       "dllPath":  "bin/BelowZero/MoreModifiedItems/MoreModifiedItems.dll",
-      "version":  "2.0.5",
-      "hash":  "2BDED5237961263B69506973418E2FD143686BF205C2A3D9F0E34C1FB22FDAE4"
+      "version":  "2.0.6",
+      "hash":  "025E95210B63C76152B82B093029CEE85B8C93C1D04C20CB24F70702E4BC6805"
     },
     "UnSlowSeaTruck":  {
-      "lastChanged":  "2025-07-12T22:12:07Z",
+      "lastChanged":  "2025-08-16T15:49:09Z",
       "dllPath":  "bin/BelowZero/UnSlowSeaTruck/UnSlowSeaTruck.dll",
-      "version":  "1.0.0.0",
-      "hash":  "308E8A4E9DDA978203C030561CAC166EAE14190EB5A08EC8DCE755848644B5D4"
+      "version":  "1.0.1",
+      "hash":  "9F09384B8026727CD1A1928404300C7E3FF1CB03C9ACBEE5EAEFEE608169EA1D"
     },
     "NoMenuPause":  {
-      "lastChanged":  "2025-07-12T22:12:06Z",
+      "lastChanged":  "2025-08-16T15:49:08Z",
       "dllPath":  "bin/BelowZero/NoMenuPause/NoMenuPause.dll",
-      "version":  "2.0.0.0",
-      "hash":  "D1A640043488D44C68C12C51F315BAAA0C91B545FDD7589F5EDAB7C0297E1FE9"
+      "version":  "2.0.1",
+      "hash":  "EB6D6F46328C52CE2C18BDF31E1D72B7B4770B2B7E48AE57CC69087C69D102FD"
     },
     "IncreasedResourceSpawns":  {
-      "lastChanged":  "2025-07-12T22:12:06Z",
+      "lastChanged":  "2025-08-16T15:49:08Z",
       "dllPath":  "bin/BelowZero/IncreasedResourceSpawns/IncreasedResourceSpawns.dll",
-      "version":  "1.0.0",
-      "hash":  "8734256EEB90E98544D1F8483DDD05CABC597F519B264E3EDA5B500C5ED0716C"
+      "version":  "1.0.1",
+      "hash":  "38DF7CC9374FD2C0E256068A79518699D0720A0A9ECEFB1DB147EC0AB38A0879"
     },
     "UnobtaniumBatteries":  {
-      "lastChanged":  "2025-07-12T22:12:07Z",
+      "lastChanged":  "2025-08-16T15:49:09Z",
       "dllPath":  "bin/BelowZero/UnobtaniumBatteries/UnobtaniumBatteries.dll",
-      "version":  "2.0.0.0",
-      "hash":  "4467D81F71752C7D8D3A5BED18B472A5041DB3B8F219D1E80BCA8751295AA50C"
+      "version":  "2.0.1",
+      "hash":  "77234FC12952755963D567F1D5734B11B7487BF444EB334735B367A2E32D1F4C"
     },
     "NoMagicLights":  {
-      "lastChanged":  "2025-07-12T22:12:06Z",
+      "lastChanged":  "2025-08-16T15:49:09Z",
       "dllPath":  "bin/BelowZero/NoMagicLights/NoMagicLights.dll",
-      "version":  "2.0.0.0",
-      "hash":  "B7D9B5758463832B0A4812A6342CEAD1970DFC99B6B76FD8763A65BC4F17BB4B"
+      "version":  "2.0.1",
+      "hash":  "E82BA18344321EA4280A4D246574EC02B7DA79DE7D0E4D0945A26CD158E7F878"
     },
     "AllItems1x1":  {
-      "lastChanged":  "2025-07-12T22:12:06Z",
+      "lastChanged":  "2025-08-16T15:49:08Z",
       "dllPath":  "bin/BelowZero/AllItems1x1/AllItems1x1.dll",
-      "version":  "1.0.0",
-      "hash":  "E0181FB56D6EEEE5C193B04C86C3C8D58DADA7B93C7FF47E877D383944B433EB"
+      "version":  "1.0.1",
+      "hash":  "DD49D43406479D179D3647B717B49A73A8F69103C985A79A02E0D9F182E9544E"
     },
     "GravTrapStorage":  {
-      "lastChanged":  "2025-07-12T22:12:07Z",
+      "lastChanged":  "2025-08-16T15:49:08Z",
       "dllPath":  "bin/BelowZero/GravTrapStorage/GravTrapStorage.dll",
-      "version":  "2.0.0.1",
-      "hash":  "F46ECC27F94AF2AC4BE9C9461417D714AB9547E00FB504209C05CC603E3E990D"
+      "version":  "2.0.1",
+      "hash":  "773663476EBE42D490FB6E814854F42D0D6B128A08229DFEC1484948C8D4825E"
     },
     "CustomPosters":  {
-      "lastChanged":  "2025-07-12T22:12:06Z",
+      "lastChanged":  "2025-08-16T15:49:08Z",
       "dllPath":  "bin/BelowZero/CustomPosters/CustomPosters.dll",
-      "version":  "2.0.0.0",
-      "hash":  "D654F8BD71D3DAD79CAD965AC453065FF64E5EB64C4DECA9033282C754BDC501"
+      "version":  "2.0.1",
+      "hash":  "48C6642ECFF90F6FD578B2D42D88ECDBC3132FCB4AF6FF2402CD04C53AAF7153"
     },
     "TimeEternal":  {
-      "lastChanged":  "2025-07-12T22:12:07Z",
+      "lastChanged":  "2025-08-16T15:49:09Z",
       "dllPath":  "bin/BelowZero/TimeEternal/TimeEternal.dll",
-      "version":  "1.0.0",
-      "hash":  "E00D1ED48AF1CDF70516E0E1BC7C129D05439B60E40D56A6F8BF32B4D24F90A0"
+      "version":  "1.0.1",
+      "hash":  "FA550873F7E7FCA3EC0C8941F283FD5066168689005637997013C8882CCEF9A6"
     },
     "MoreCyclopsUpgrades":  {
-      "lastChanged":  "2025-07-12T22:12:07Z",
+      "lastChanged":  "2025-08-16T15:49:09Z",
       "dllPath":  "bin/BelowZero/MoreCyclopsUpgrades/MoreCyclopsUpgrades.dll",
-      "version":  "1.0.2",
-      "hash":  "5385824497B3212676BFCE0F5FE4DF6E3BBDCA56142CF809C7DB33209FA8ACBC"
+      "version":  "1.0.3",
+      "hash":  "3976798E8ADBB0C3EFD923E4D0837627F0F8AD5992C7D1C70E80DC614C8D5023"
     },
     "PowerOrder":  {
-      "lastChanged":  "2025-07-12T22:12:07Z",
+      "lastChanged":  "2025-08-16T15:49:09Z",
       "dllPath":  "bin/BelowZero/PowerOrder/PowerOrder.dll",
-      "version":  "2.0.0.0",
-      "hash":  "CAD09DFBB57F34AAF824EEAD0987143E3292A2F240632283AD70CB410BC43B1B"
+      "version":  "2.0.1",
+      "hash":  "D0FE5E22464F10B369EF841E8139A6335C64E9C7964F71A8A16D1F3D4D05FE8E"
     },
     "CustomizeYourSpawns":  {
-      "lastChanged":  "2025-07-12T22:12:06Z",
+      "lastChanged":  "2025-08-16T15:49:08Z",
       "dllPath":  "bin/BelowZero/CustomizeYourSpawns/CustomizeYourSpawns.dll",
-      "version":  "2.0.0.0",
-      "hash":  "5F538208F2FDB10F6475049ED7949062A2CFB18BA55530CB3920EBFE920A1114"
+      "version":  "2.0.1",
+      "hash":  "FCD0BD5CE33825B5B5187508FB8A926B16AFAEF2A621DA33D37344907334F510"
     },
     "DropUpgradesOnDestroy":  {
-      "lastChanged":  "2025-07-12T22:12:06Z",
+      "lastChanged":  "2025-08-16T15:49:08Z",
       "dllPath":  "bin/BelowZero/DropUpgradesOnDestroy/DropUpgradesOnDestroy.dll",
-      "version":  "2.0.0.0",
-      "hash":  "00E6B786C92B733D64AA89144B4534BCED46BFF0123A430C42F2371495C91D58"
+      "version":  "2.0.1",
+      "hash":  "9ECBCAF010299C194A11AC944E0A9ECD9CC721293F7187ABB787ABBFC7CB355F"
     },
     "CustomBatteries":  {
-      "lastChanged":  "2025-07-12T22:12:07Z",
+      "lastChanged":  "2025-08-16T15:49:09Z",
       "dllPath":  "bin/BelowZero/CustomBatteries/CustomBatteries.dll",
-      "version":  "1.0.1",
-      "hash":  "8200F5CBC8101D0535383B8FDA3A42B5CFF8EA92B2C15FB9EF7B868E214485C6"
+      "version":  "1.0.2",
+      "hash":  "12C21B5CD0854A22E9BE81DF4BD540C456CC74643E92A9AC6BA00B212D0B2BDC"
     },
     "ChargeRequired":  {
-      "lastChanged":  "2025-07-12T22:12:06Z",
+      "lastChanged":  "2025-08-16T15:49:08Z",
       "dllPath":  "bin/BelowZero/ChargeRequired/ChargeRequired.dll",
-      "version":  "2.0.1",
-      "hash":  "EC15BD550BD5C04B03F52F7D7139F5E315C583B9CC6D05863F575406F6780FB1"
+      "version":  "2.0.2",
+      "hash":  "A3512EAA51C6DA896B499C64C022231D0F86CABC055D41CFF8923E4DC557F6EC"
     },
     "Defabricator":  {
-      "lastChanged":  "2025-07-12T22:12:07Z",
+      "lastChanged":  "2025-08-16T15:49:09Z",
       "dllPath":  "bin/BelowZero/Defabricator/Defabricator.dll",
-      "version":  "2.0.1",
-      "hash":  "621E0586F551C1542AA2E81C1FF98CC693B4E2639771948211FBA6CC09545025"
+      "version":  "2.0.2",
+      "hash":  "EF33E72502120F7B474869F1CC9AA6BBB9F80F2883A016ECA2F0176DC0F7FE48"
     },
     "BaseLegsRemoval":  {
-      "lastChanged":  "2025-07-12T22:12:06Z",
+      "lastChanged":  "2025-08-16T15:49:08Z",
       "dllPath":  "bin/BelowZero/BaseLegsRemoval/BaseLegsRemoval.dll",
-      "version":  "1.0.0",
-      "hash":  "36B009C07F7465C6BA7888077C2055B7726591CB4D3316F57B0B15FF0B7513F0"
+      "version":  "1.0.1",
+      "hash":  "9E0A456B1F515C38F48BB470A1F5B6997FD8C78E45838B3C05CADD7507B5D13C"
     },
     "ToolInspection":  {
-      "lastChanged":  "2025-07-12T22:12:07Z",
+      "lastChanged":  "2025-08-16T15:49:09Z",
       "dllPath":  "bin/BelowZero/ToolInspection/ToolInspection.dll",
-      "version":  "2.0.0.0",
-      "hash":  "A92CF00F4BE0A28C0EC776211595B5773F181A6FF242F063A17F5B41DB601A10"
+      "version":  "2.0.1",
+      "hash":  "7466546A27255E41313025A7547919A0D0989E06D5630B3F71F4AB5793D46580"
     },
     "ExtravagantGifts":  {
-      "lastChanged":  "2025-07-12T22:12:06Z",
+      "lastChanged":  "2025-08-16T15:49:08Z",
       "dllPath":  "bin/BelowZero/ExtravagantGifts/ExtravagantGifts.dll",
-      "version":  "2.0.0.0",
-      "hash":  "6ACEC42151240A4A8B5CC11201437C99C2430FFECCDAABC7F3779085166D7F8D"
+      "version":  "2.0.1",
+      "hash":  "CDB6EEECA4CD5625F2E34A8949D9DD5EB67BCA78C7AD2BCA05A19D3B0F15F30F"
     },
     "InstantBulkheadAnimations":  {
-      "lastChanged":  "2025-07-12T22:12:06Z",
+      "lastChanged":  "2025-08-16T15:49:08Z",
       "dllPath":  "bin/BelowZero/InstantBulkheadAnimations/InstantBulkheadAnimations.dll",
-      "version":  "2.0.0.0",
-      "hash":  "61B9D38CB753BCC23BB1A9DB05730F378BFA0061BEB569949C90B44289E4AC7D"
+      "version":  "2.0.1",
+      "hash":  "C5B2823E3C8B63C68AEE3579E93FAB89F6FE26F4E39AA18A5D5FD7996A5011AD"
     },
     "BuildingTweaks":  {
-      "lastChanged":  "2025-07-12T22:12:06Z",
+      "lastChanged":  "2025-08-16T15:49:08Z",
       "dllPath":  "bin/BelowZero/BuildingTweaks/BuildingTweaks.dll",
-      "version":  "2.0.1",
-      "hash":  "F736B84960B3D6910B06BEFF81286F0860B3241FDB4EDE7CA835D5750FF578CB"
+      "version":  "2.0.2",
+      "hash":  "EDFC3F01146F7A6DAA3CDEAC217F5FFA6D5E9FEBD56974C49A4B40418684A492"
     },
     "IncreasedChunkDrops":  {
-      "lastChanged":  "2025-07-12T22:12:06Z",
+      "lastChanged":  "2025-08-16T15:49:08Z",
       "dllPath":  "bin/BelowZero/IncreasedChunkDrops/IncreasedChunkDrops.dll",
-      "version":  "2.0.1",
-      "hash":  "306224A1CAD436E5B64CAABC8680CD9725D639DF224A73C5343A74313812A777"
+      "version":  "2.0.2",
+      "hash":  "D228D231B008F215FDBFCEFE507363A6ED261C77AB7E25530EE7A47425739D24"
     },
     "ImprovedPowerNetwork":  {
-      "lastChanged":  "2025-07-12T22:12:06Z",
+      "lastChanged":  "2025-08-16T15:49:08Z",
       "dllPath":  "bin/BelowZero/ImprovedPowerNetwork/ImprovedPowerNetwork.dll",
-      "version":  "2.0.0.0",
-      "hash":  "AB1A2BD30D56CA5CFE8C95A7133AD03C537AFD9288D6C3BD9B13C508785935DC"
+      "version":  "2.0.1",
+      "hash":  "6E17387C27D4FEDD6B8F79A7F7B52A782B3F16501E4986F5DCF30366C9E45869"
     },
     "CustomCraft3":  {
-      "lastChanged":  "2025-07-12T22:12:07Z",
+      "lastChanged":  "2025-08-16T15:49:09Z",
       "dllPath":  "bin/BelowZero/CustomCraft3/CustomCraft3.dll",
-      "version":  "1.0.0.4",
-      "hash":  "32BFA7DE31396AEB161658744EB0DD3852B7E6946F2B77C05047D8EFFE5A1986"
+      "version":  "1.0.1",
+      "hash":  "DDE2C65D01A5D6B7AAA33DE8E8A07D4D6457BDCDB838A48A6B1BC2BE09A182F6"
     },
     "BuilderModule":  {
-      "lastChanged":  "2025-07-12T22:12:06Z",
+      "lastChanged":  "2025-08-16T15:49:08Z",
       "dllPath":  "bin/BelowZero/BuilderModule/BuilderModule.dll",
-      "version":  "2.0.0.0",
-      "hash":  "14AC814314A34802D664FBF90A306D9A758C13F7289222BAE0819F6B084A4732"
+      "version":  "2.0.1",
+      "hash":  "05D1E641AD043E30611E3B0D34DB0DC511BD79105AE9FD1E8259264F603AF794"
     },
     "SolidTerrain":  {
-      "lastChanged":  "2025-07-12T22:12:07Z",
+      "lastChanged":  "2025-08-16T15:49:09Z",
       "dllPath":  "bin/BelowZero/SolidTerrain/SolidTerrain.dll",
-      "version":  "2.0.0.0",
-      "hash":  "78ADDB8D9FC2B3101A87ABB36813D5C13AE9B4CA2A876CAE801EAACAF868FF25"
+      "version":  "2.0.1",
+      "hash":  "60461D73BB40F9BC897441F2E703A9C141B0D14972CA79E50A565DD70008F13A"
     },
     "NoOxygenWarnings":  {
-      "lastChanged":  "2025-07-12T22:12:07Z",
+      "lastChanged":  "2025-08-16T15:49:09Z",
       "dllPath":  "bin/BelowZero/NoOxygenWarnings/NoOxygenWarnings.dll",
-      "version":  "2.0.0.0",
-      "hash":  "18A398115AACEAD23E1B97835C23182CA6FF7F1E56332697073CCD588D5AD6DB"
+      "version":  "2.0.1",
+      "hash":  "5B6C5FFA3040D7CE9127F1CEB41AA560E60C7DCB78EE17F5E9FB366A0E24572E"
     },
     "Pridenautica":  {
-      "lastChanged":  "2025-07-12T22:12:07Z",
+      "lastChanged":  "2025-08-16T15:49:09Z",
       "dllPath":  "bin/BelowZero/Pridenautica/Pridenautica.dll",
-      "version":  "2.0.0.0",
-      "hash":  "771B5FEB8DD341A37BB3AD2104C3EEBA5510EAD641D3EEFB0F067EFAD27E3D3A"
+      "version":  "2.0.1",
+      "hash":  "463F8844424CA3654BB9D4756DBD1A1D4670770375EAA58E1D03444079A2873B"
     },
     "KeepInventoryOnDeath":  {
-      "lastChanged":  "2025-07-12T22:12:06Z",
+      "lastChanged":  "2025-08-16T15:49:08Z",
       "dllPath":  "bin/BelowZero/KeepInventoryOnDeath/KeepInventoryOnDeath.dll",
-      "version":  "1.0.0",
-      "hash":  "ECD1BB5C4F51A902339296409CB43F11ED198A36BEC880E239DF2ECD414B0E2D"
+      "version":  "1.0.1",
+      "hash":  "D74147A0313FFCE724FDBF5BAC3E9A056060AFA7DC8C4879EEA7B1B29BF15B1A"
     },
     "UnknownName":  {
-      "lastChanged":  "2025-07-12T22:12:07Z",
+      "lastChanged":  "2025-08-16T15:49:09Z",
       "dllPath":  "bin/BelowZero/UnknownName/UnknownName.dll",
-      "version":  "1.0.0",
-      "hash":  "40B93F484ED889F468B502F83E7574146216F399A478DA5B92B4DB8BD321FCE2"
+      "version":  "1.0.1",
+      "hash":  "FB0DDFD18F6EA05C4551731060EFF224954226BEDF00172CD69D1DAC653D921A"
     },
     "PersistentCommands":  {
-      "lastChanged":  "2025-07-12T22:12:07Z",
+      "lastChanged":  "2025-08-16T15:49:09Z",
       "dllPath":  "bin/BelowZero/PersistentCommands/PersistentCommands.dll",
-      "version":  "2.0.0.0",
-      "hash":  "147648B1CF9E24EA3A5540287C6200784E4CF616BE3B76EA6466D1B9EAE359FA"
+      "version":  "2.0.1",
+      "hash":  "94A75EE7600E3B1782BB9FB2E44FAC2146DD24B0A35434CC25B1F3E39A308704"
     },
     "CustomCommands":  {
-      "lastChanged":  "2025-07-12T22:12:06Z",
+      "lastChanged":  "2025-08-16T15:49:08Z",
       "dllPath":  "bin/BelowZero/CustomCommands/CustomCommands.dll",
-      "version":  "2.0.0.1",
-      "hash":  "9622A09CEAEB29B6C162D5C69C643C0B822DF5CE570D2E82C2FCA767095F4ED8"
+      "version":  "2.0.1",
+      "hash":  "1B87BD33BCD2AEB0454DFEAB3970F709C8C322F5B33773F2311E1A925E69D1B6"
     },
     "MoreSeamothDepth":  {
-      "lastChanged":  "2025-07-12T22:12:07Z",
+      "lastChanged":  "2025-08-16T15:49:09Z",
       "dllPath":  "bin/BelowZero/MoreSeamothDepth/MoreSeamothDepth.dll",
-      "version":  "1.0.0",
-      "hash":  "2B839E3331B327688CCA8D5CCBFFAC9630BA2BA1685F2A2EFFA3D443CE39B445"
+      "version":  "1.0.1",
+      "hash":  "0172618B7ACDAA76D378049BAEBE8D6F447B303A60DA260B66C6907F990BEF09"
     },
     "FabricatorNoAutoClose":  {
-      "lastChanged":  "2025-07-12T22:12:06Z",
+      "lastChanged":  "2025-08-16T15:49:08Z",
       "dllPath":  "bin/BelowZero/FabricatorNoAutoClose/FabricatorNoAutoClose.dll",
-      "version":  "2.0.0.0",
-      "hash":  "E6F240D66E1D99B26C3E6F8347AA0AE60372A169B828793529DE9965FD9B2C95"
+      "version":  "2.0.1",
+      "hash":  "B20ACD29DBE73676DD6C9587BE1248F5359D3FF264296EC13667EF0818109373"
     },
     "BetterScannerBlips":  {
-      "lastChanged":  "2025-07-12T22:12:07Z",
+      "lastChanged":  "2025-08-16T15:49:09Z",
       "dllPath":  "bin/BelowZero/BetterScannerBlips/BetterScannerBlips.dll",
-      "version":  "1.0.0",
-      "hash":  "BB2222A450C1FF230F65FAA024CBD9E07489A3C3F26E0D54FE615C1313F84707"
+      "version":  "1.0.1",
+      "hash":  "B9FDEFF80F10EB18E06242B07DB0ADBA13D953C87E202579D7B7F3FF36D62459"
     },
     "SpecialtyManifold":  {
-      "lastChanged":  "2025-07-12T22:12:07Z",
+      "lastChanged":  "2025-08-16T15:49:09Z",
       "dllPath":  "bin/BelowZero/SpecialtyManifold/SpecialtyManifold.dll",
-      "version":  "2.0.3",
-      "hash":  "4158BA95CCC6D853C81BBB69EEDC98AE1139E33D22522DD0CE5D2AC8BCC153BE"
+      "version":  "2.0.4",
+      "hash":  "A7E9BA2567346B142DD2B1611BED10A60E5BFC86A068C5C442225D6ECE5DD71F"
     },
     "CopperFromScanning":  {
-      "lastChanged":  "2025-07-12T22:12:06Z",
+      "lastChanged":  "2025-08-16T15:49:08Z",
       "dllPath":  "bin/BelowZero/CopperFromScanning/CopperFromScanning.dll",
-      "version":  "2.0.0.0",
-      "hash":  "7E899F7F2BC3A7844B42CC2487C3F1E8E307237F27F921705EDFFABA29613F95"
+      "version":  "2.0.1",
+      "hash":  "91D3AE32986D3803974BD0312FB3496C441B2AEE7D40B200305A338F66B7C301"
     },
     "NoMask":  {
-      "lastChanged":  "2025-07-12T22:12:07Z",
+      "lastChanged":  "2025-08-16T15:49:09Z",
       "dllPath":  "bin/BelowZero/NoMask/NoMask.dll",
-      "version":  "2.0.0.0",
-      "hash":  "F97939608D10DC8770CA1272F9DFDCA091EB4AF7A13783CD79E3E16246EFF56D"
+      "version":  "2.0.1",
+      "hash":  "B575DD67385B6695567F589DADFD952AB48ADDF33F9B84763F025737F67BE7CA"
     },
     "RandomCreatureSize":  {
-      "lastChanged":  "2025-07-12T22:12:07Z",
+      "lastChanged":  "2025-08-16T15:49:09Z",
       "dllPath":  "bin/BelowZero/RandomCreatureSize/RandomCreatureSize.dll",
-      "version":  "2.0.0.0",
-      "hash":  "0319D22DAC64058E02FF426AB9078704FDD8854DB10522B61B2BFEFE2CEA3096"
+      "version":  "2.0.1",
+      "hash":  "CCC417F24279C3E3362A6D9F480301228D12C9AA6900F2A048667766970E02A7"
     },
     "NoCrosshair":  {
-      "lastChanged":  "2025-07-12T22:12:06Z",
+      "lastChanged":  "2025-08-16T15:49:08Z",
       "dllPath":  "bin/BelowZero/NoCrosshair/NoCrosshair.dll",
-      "version":  "2.0.0.0",
-      "hash":  "9E15828DBF5FA0ADD1756169C2B452D4BE7ED14E40805A50C8779B76DF75150B"
+      "version":  "2.0.1",
+      "hash":  "686AEA157F526725B5B3CCDAF17DE61934E941FF21BDF6D6459E197C56C62847"
     },
     "UpgradedVehicles":  {
-      "lastChanged":  "2025-07-12T22:12:07Z",
+      "lastChanged":  "2025-08-16T15:49:09Z",
       "dllPath":  "bin/BelowZero/UpgradedVehicles/UpgradedVehicles.dll",
-      "version":  "1.0.4",
-      "hash":  "8D17CF9AEEEF28C3F4681DCEE5E3B77E85641B1D75C052C871657758BBCA1FA6"
+      "version":  "1.0.5",
+      "hash":  "78B8194E4D3623BDA1A72196D73E8DB7B5ACBCB452BA85AB7ABC4FD27394C54C"
     },
     "ExtraOptions":  {
-      "lastChanged":  "2025-07-12T22:12:06Z",
+      "lastChanged":  "2025-08-16T15:49:09Z",
       "dllPath":  "bin/BelowZero/ExtraOptions/ExtraOptions.dll",
-      "version":  "1.0.0",
-      "hash":  "2A1FED7217477CB60059CB6F836B127E2B422B96E1C79BDBFC7B85E9E5B60AE3"
+      "version":  "1.0.1",
+      "hash":  "62664CECC342D66B24EE65A183BF73F0F626839F9F534D8D01D4B18C89C09102"
     },
     "ConfigurableChunkDrops":  {
-      "lastChanged":  "2025-07-12T22:12:06Z",
+      "lastChanged":  "2025-08-16T15:49:08Z",
       "dllPath":  "bin/BelowZero/ConfigurableChunkDrops/ConfigurableChunkDrops.dll",
-      "version":  "2.0.1",
-      "hash":  "1A2A5505EDC1479936CB3A3975535FF8B63C4D981CA15A5D96164415E49F6FBE"
+      "version":  "2.0.2",
+      "hash":  "E77B5AD2D1E41768891FA201CEAEF95F3B9BB5B1131CF746A3BB9C320DBAF233"
     },
     "ScannableTimeCapsules":  {
-      "lastChanged":  "2025-07-12T22:12:07Z",
+      "lastChanged":  "2025-08-16T15:49:09Z",
       "dllPath":  "bin/BelowZero/ScannableTimeCapsules/ScannableTimeCapsules.dll",
-      "version":  "2.0.0.0",
-      "hash":  "42CFC03903BE449C2797A6ED9B3145004BBD91B7EBB4BEFDE0001D0728CF7B55"
+      "version":  "2.0.1",
+      "hash":  "F5FEE615ADC7B8D8E2C732194A3C9853C5DF23BDDED78E065190C8F509E85423"
     },
     "BetterVehicleStorage":  {
-      "lastChanged":  "2025-07-12T22:12:07Z",
+      "lastChanged":  "2025-08-16T15:49:09Z",
       "dllPath":  "bin/BelowZero/BetterVehicleStorage/BetterVehicleStorage.dll",
-      "version":  "1.0.1",
-      "hash":  "989A8297B196C3AA562A72ED94A718772597AD36EE950C17D57874DE5443C935"
+      "version":  "1.0.2",
+      "hash":  "EE8FCDB58A6EF8E86EBB075CE4976E96F7D1F57E055077918DE3D3348991642F"
     },
     "PickupableStorageEnhanced":  {
-      "lastChanged":  "2025-07-12T22:12:06Z",
+      "lastChanged":  "2025-08-16T15:49:08Z",
       "dllPath":  "bin/BelowZero/PickupableStorageEnhanced/PickupableStorageEnhanced.dll",
-      "version":  "1.0.0",
-      "hash":  "C14270B8A191661EC02AE97EAE544138CAAE3FA7C1ECCEF2FDE15F70CD9EC5FB"
+      "version":  "1.0.1",
+      "hash":  "75CD31F25F38BBD2FF9BB6E2D8CE7AF86C768EF85090F65C2F0E158A2AC9C9F3"
     },
     "SeamothThermal":  {
-      "lastChanged":  "2025-07-12T22:12:07Z",
+      "lastChanged":  "2025-08-16T15:49:09Z",
       "dllPath":  "bin/BelowZero/SeamothThermal/SeamothThermal.dll",
-      "version":  "2.0.0.0",
-      "hash":  "9B6F46981756BF1CB0DB1E581ECE28403A8B352F41AA8A058EE5ABD541052D0C"
+      "version":  "2.0.1",
+      "hash":  "A4084A3D45A48D5ED33E9CF35376C6D9FA65CB54C4C8DCA0802B692BC14194B6"
     },
     "CustomHullPlates":  {
-      "lastChanged":  "2025-07-12T22:12:06Z",
+      "lastChanged":  "2025-08-16T15:49:08Z",
       "dllPath":  "bin/BelowZero/CustomHullPlates/CustomHullPlates.dll",
-      "version":  "2.0.0.0",
-      "hash":  "808730F1DC5D3B984824C01E461C16670F82C1FE81FB55E85E7EE0056275C506"
+      "version":  "2.0.1",
+      "hash":  "96047CDA76CF1E6872EB15DE151ADFE85AE93DCDA768791B148104BAB89501CD"
     },
     "QuitToDesktop":  {
-      "lastChanged":  "2025-07-12T22:12:07Z",
+      "lastChanged":  "2025-08-16T15:49:09Z",
       "dllPath":  "bin/BelowZero/QuitToDesktop/QuitToDesktop.dll",
-      "version":  "1.0.0",
-      "hash":  "50E301C4195812CAA7D3F3D983CA3C80D940D6F960E95C8C9DAC337CB0CA4168"
+      "version":  "1.0.1",
+      "hash":  "5E2B286E2EE59486337D8D1B9392E1E39D89272B565810D45F9FE648976D0382"
     }
   },
   "Subnautica":  {
     "BetterACU":  {
-      "lastChanged":  "2025-07-12T22:12:03Z",
+      "lastChanged":  "2025-08-16T15:49:04Z",
       "dllPath":  "bin/Subnautica/BetterACU/BetterACU.dll",
-      "version":  "2.0.2",
-      "hash":  "A935D729BF61A2705AB6C983864D9292025AFA387A9339FFF41085F5AD11BEB0"
+      "version":  "2.0.3",
+      "hash":  "EBD518D07F20D9B27D8B762F6355615796C2AEF1F071709593739E445FAFD503"
     },
     "RadialTabs":  {
-      "lastChanged":  "2025-07-12T22:12:04Z",
+      "lastChanged":  "2025-08-16T15:49:05Z",
       "dllPath":  "bin/Subnautica/RadialTabs/RadialTabs.dll",
-      "version":  "1.0.0",
-      "hash":  "4883163F9FB2B41E17712348F0079131932FD2D9903E6E3C5CE744EBBB8C7D1C"
+      "version":  "1.0.1",
+      "hash":  "861AC04CFCA2FA497015757D6454C3DFD6812CB5E816D9FF8AD9C421AB6EA5E0"
     },
     "NoMenuPause":  {
-      "lastChanged":  "2025-07-12T22:12:04Z",
+      "lastChanged":  "2025-08-16T15:49:04Z",
       "dllPath":  "bin/Subnautica/NoMenuPause/NoMenuPause.dll",
-      "version":  "2.0.0.0",
-      "hash":  "32731B1C485D3E8C26C77C3FF6086B9351D724E6B0B351A7F5CBEEB923CC895E"
+      "version":  "2.0.1",
+      "hash":  "6DB69F147F34FB271DC97AC084A7213A34C00059ADD97DA0016DE81AD75C013F"
     },
     "NoMagicLights":  {
-      "lastChanged":  "2025-07-12T22:12:04Z",
+      "lastChanged":  "2025-08-16T15:49:04Z",
       "dllPath":  "bin/Subnautica/NoMagicLights/NoMagicLights.dll",
-      "version":  "2.0.0.0",
-      "hash":  "ED33BAD007869472A1868C35906E9B775D81FD6F7C019FBD8C906DC4898ED511"
+      "version":  "2.0.1",
+      "hash":  "4A7ADB78798955E4F6BEFDA591CC1754B5300F9B1FA87579DD30BF0CA9E8E6F5"
     },
     "IncreasedChunkDrops":  {
-      "lastChanged":  "2025-07-12T22:12:03Z",
+      "lastChanged":  "2025-08-16T15:49:04Z",
       "dllPath":  "bin/Subnautica/IncreasedChunkDrops/IncreasedChunkDrops.dll",
-      "version":  "2.0.1",
-      "hash":  "879C26C7ADDA91F28F2AD19EE89EC8A500866B0AF9B105E5CE10E5CE07B76FEB"
+      "version":  "2.0.2",
+      "hash":  "C754D5A3BFB6FB97BA7E8374B6A9FFBB73FDAAB633921E16B1B2565514A0C025"
     },
     "BaseLegsRemoval":  {
-      "lastChanged":  "2025-07-12T22:12:03Z",
+      "lastChanged":  "2025-08-16T15:49:04Z",
       "dllPath":  "bin/Subnautica/BaseLegsRemoval/BaseLegsRemoval.dll",
-      "version":  "1.0.0",
-      "hash":  "893B43B58A012658020783001C03A80691EB2FDAEE1A4B5D3FBA35530E28F4B0"
+      "version":  "1.0.1",
+      "hash":  "A592BC45175B5FDB9D0A13FA42E8189A68494064E71E0C370E1F7AB0CB7906DE"
     },
     "ExtraOptions":  {
-      "lastChanged":  "2025-07-12T22:12:03Z",
+      "lastChanged":  "2025-08-16T15:49:04Z",
       "dllPath":  "bin/Subnautica/ExtraOptions/ExtraOptions.dll",
-      "version":  "1.0.0",
-      "hash":  "3CA8AD703D37593E3CAE77333FCE52A1E2C114A45FB8DBA4DFDBD2661A56A9F0"
+      "version":  "1.0.1",
+      "hash":  "F6DF2C3131C2A3C18CEDAF3F8367CB89F14F82831DAD930A92B0CCD4D41EE2A1"
     },
     "SpecialtyManifold":  {
-      "lastChanged":  "2025-07-12T22:12:04Z",
+      "lastChanged":  "2025-08-16T15:49:04Z",
       "dllPath":  "bin/Subnautica/SpecialtyManifold/SpecialtyManifold.dll",
-      "version":  "2.0.3",
-      "hash":  "0A025CF317B9E6FD94951B8E4FD9BB431A22E936D378B09A75CAD780288D6C3E"
+      "version":  "2.0.4",
+      "hash":  "7E9BE23C82025C3389A9F2E4037C7531BD16DBA441955436E0F8506A212A9372"
     },
     "CyclopsThermalUpgrades":  {
-      "lastChanged":  "2025-07-12T22:12:04Z",
+      "lastChanged":  "2025-08-16T15:49:05Z",
       "dllPath":  "bin/Subnautica/CyclopsThermalUpgrades/CyclopsThermalUpgrades.dll",
-      "version":  "1.0.1",
-      "hash":  "620DACF2BE32EDA86195252D7501CEAA76F336883A91434F1BF185E8B4439736"
+      "version":  "1.0.2",
+      "hash":  "8353F0810E3A479A5CE622743DA25ABB569E7143E5B905895881E8E32FA855B1"
     },
     "NoCrosshair":  {
-      "lastChanged":  "2025-07-12T22:12:03Z",
+      "lastChanged":  "2025-08-16T15:49:04Z",
       "dllPath":  "bin/Subnautica/NoCrosshair/NoCrosshair.dll",
-      "version":  "2.0.0.0",
-      "hash":  "A023F94CAA890C8EA98BFCBD56FE67BC2B8C63489CCDC49230ED9942D6D1FA42"
+      "version":  "2.0.1",
+      "hash":  "6D008BC9D91BEAE1A795042FD1EE73D71B00D756A3762811A54F237CEBD6C500"
     },
     "NoOxygenWarnings":  {
-      "lastChanged":  "2025-07-12T22:12:04Z",
+      "lastChanged":  "2025-08-16T15:49:04Z",
       "dllPath":  "bin/Subnautica/NoOxygenWarnings/NoOxygenWarnings.dll",
-      "version":  "2.0.0.0",
-      "hash":  "E52CDB8E50424A5C48FC52ACE356D5CAABC905D0183028461254B92B89D72938"
+      "version":  "2.0.1",
+      "hash":  "937B9160BF12BCA0C4542E98F489757FF1FC43E3F49B7C77577D0EBFA6642218"
     },
     "CreaturesFleeLess":  {
-      "lastChanged":  "2025-07-12T22:12:03Z",
+      "lastChanged":  "2025-08-16T15:49:04Z",
       "dllPath":  "bin/Subnautica/CreaturesFleeLess/CreaturesFleeLess.dll",
-      "version":  "2.0.0.0",
-      "hash":  "F99152231CE9AF35150E8D3E2530E5FBB575528AA2C52368BAF1260A1901EEB8"
+      "version":  "2.0.1",
+      "hash":  "18E8C99965E9E960D36A383E395926381B0FEE90F082FBA76F27EAE5260F0F28"
     },
     "CustomCommands":  {
-      "lastChanged":  "2025-07-12T22:12:04Z",
+      "lastChanged":  "2025-08-16T15:49:04Z",
       "dllPath":  "bin/Subnautica/CustomCommands/CustomCommands.dll",
-      "version":  "2.0.0.1",
-      "hash":  "B4265C41F93919F4902AA0A33FBE0D028C2E71664326C61A53E0E76765570EB4"
+      "version":  "2.0.1",
+      "hash":  "5DACA0D956938D9207693BA527F83DA802CDB7B49DFE41D07762B3C034117E9C"
     },
     "MoreModifiedItems":  {
-      "lastChanged":  "2025-07-12T22:12:03Z",
+      "lastChanged":  "2025-08-16T15:49:04Z",
       "dllPath":  "bin/Subnautica/MoreModifiedItems/MoreModifiedItems.dll",
-      "version":  "2.0.5",
-      "hash":  "008B15BC431698087CB4EB22298050B8C69CE2FB8557FDE9BE585C5AE916E50A"
+      "version":  "2.0.6",
+      "hash":  "AEBBF20B0301BCDB198A4B7551082CBA28D37EE6C2A0064960ABBB4052022410"
     },
     "BuildingTweaks":  {
-      "lastChanged":  "2025-07-12T22:12:03Z",
+      "lastChanged":  "2025-08-16T15:49:04Z",
       "dllPath":  "bin/Subnautica/BuildingTweaks/BuildingTweaks.dll",
-      "version":  "2.0.1",
-      "hash":  "9B999FF760089DB30F567C8A2FAA7511D239F21D04C71878D642F112C3166BDB"
+      "version":  "2.0.2",
+      "hash":  "2CB9424B1E9977C92659CCE7D15940020247E7A0699E1FD8B48267E17E57AEB0"
     },
     "Pridenautica":  {
-      "lastChanged":  "2025-07-12T22:12:04Z",
+      "lastChanged":  "2025-08-16T15:49:04Z",
       "dllPath":  "bin/Subnautica/Pridenautica/Pridenautica.dll",
-      "version":  "2.0.0.0",
-      "hash":  "F291779B03DB906EBFC7B0900B2EBE86A783D760C17C89A55B55CD7C2DE628B5"
+      "version":  "2.0.1",
+      "hash":  "C137BDE50624882DCC6169022A0192B8DAF0257EBA75A36C77A48534E271EFBC"
     },
     "PersistentCommands":  {
-      "lastChanged":  "2025-07-12T22:12:04Z",
+      "lastChanged":  "2025-08-16T15:49:04Z",
       "dllPath":  "bin/Subnautica/PersistentCommands/PersistentCommands.dll",
-      "version":  "2.0.0.0",
-      "hash":  "B19A5E29537EC75B3417E5BD86ACFFAC377E3EED0944C0A682094DD6B0BEEF75"
+      "version":  "2.0.1",
+      "hash":  "3ACDC9BDD83B496FB9129599FCF0D2F2F162636A6E37B4C932D60C0891D32FF7"
     },
     "PickupableStorageEnhanced":  {
-      "lastChanged":  "2025-07-12T22:12:03Z",
+      "lastChanged":  "2025-08-16T15:49:04Z",
       "dllPath":  "bin/Subnautica/PickupableStorageEnhanced/PickupableStorageEnhanced.dll",
-      "version":  "1.0.0",
-      "hash":  "8D36D8DAE0DD0BD8F14BB97B126DADD8D1986F8DB8147045BFF85F6D94BD9C88"
+      "version":  "1.0.1",
+      "hash":  "953DAE73871EB38DEB408777C9004DCC43DD32983E17200AC5A3F555185D52D6"
     },
     "UnobtaniumBatteries":  {
-      "lastChanged":  "2025-07-12T22:12:04Z",
+      "lastChanged":  "2025-08-16T15:49:05Z",
       "dllPath":  "bin/Subnautica/UnobtaniumBatteries/UnobtaniumBatteries.dll",
-      "version":  "2.0.0.0",
-      "hash":  "04678F8A454A8367691FFA4587787E05B1E737E5189EEB4EDFA4EA9F32114D36"
+      "version":  "2.0.1",
+      "hash":  "E04ED002DED7DD18C23167160576C9190B16BFCA733BE5D82A8F72B1DEC6CC77"
     },
     "SeamothThermal":  {
-      "lastChanged":  "2025-07-12T22:12:04Z",
+      "lastChanged":  "2025-08-16T15:49:04Z",
       "dllPath":  "bin/Subnautica/SeamothThermal/SeamothThermal.dll",
-      "version":  "2.0.0.0",
-      "hash":  "9202F284B87174D6CE5C4234D92AAB5C1907BB36F46F62C2C24FB89F92504F6B"
+      "version":  "2.0.1",
+      "hash":  "764C29D8DCC8DBF0AE1B62E6CC9BBB3131B024EB5325E60A43E251BA0C3CC359"
     },
     "SolidTerrain":  {
-      "lastChanged":  "2025-07-12T22:12:04Z",
+      "lastChanged":  "2025-08-16T15:49:04Z",
       "dllPath":  "bin/Subnautica/SolidTerrain/SolidTerrain.dll",
-      "version":  "2.0.0.0",
-      "hash":  "7CF2652A2EB30001DC14A17DBE6AF385EDFA32C15AE6F5573C3BCDE4DCD2D78E"
+      "version":  "2.0.1",
+      "hash":  "F1535892B9B0FF0E7CE22402CDBF6296C1C71AC9F1669DB15563464488D52664"
     },
     "BetterVehicleStorage":  {
-      "lastChanged":  "2025-07-12T22:12:04Z",
+      "lastChanged":  "2025-08-16T15:49:05Z",
       "dllPath":  "bin/Subnautica/BetterVehicleStorage/BetterVehicleStorage.dll",
-      "version":  "1.0.1",
-      "hash":  "D6AD0BCB29D0DAB67C493739D9D6FF1EB9F278FD60D52D248FA82A43BC46F34F"
+      "version":  "1.0.2",
+      "hash":  "DDE6B17729D34CD5BDF2F2CD9FA04A8AECA8B0D4141DB6C55E5A2EA85464F164"
     },
     "CyclopsSolarUpgrades":  {
-      "lastChanged":  "2025-07-12T22:12:04Z",
+      "lastChanged":  "2025-08-16T15:49:05Z",
       "dllPath":  "bin/Subnautica/CyclopsSolarUpgrades/CyclopsSolarUpgrades.dll",
-      "version":  "1.0.0.0",
-      "hash":  "2C06801AA5BCAA42430C2A30C81BF7D73387F38C2C543EBC6A36A668E1D7AE73"
+      "version":  "1.0.1",
+      "hash":  "1611F8951BEF620F0F6D76D532A8AD320FD400765518CCED3A24364D475A4053"
     },
     "CustomBatteries":  {
-      "lastChanged":  "2025-07-12T22:12:04Z",
+      "lastChanged":  "2025-08-16T15:49:04Z",
       "dllPath":  "bin/Subnautica/CustomBatteries/CustomBatteries.dll",
-      "version":  "1.0.1",
-      "hash":  "E0D053C9E527D22D288E12D8462D64313550E1D232EEA2982EA0DF64F35C0029"
+      "version":  "1.0.2",
+      "hash":  "3EE489919310D12615E30692EFC127D878BC3A920598AFD1831DFCCEFDAC770E"
     },
     "QuitToDesktop":  {
-      "lastChanged":  "2025-07-12T22:12:04Z",
+      "lastChanged":  "2025-08-16T15:49:05Z",
       "dllPath":  "bin/Subnautica/QuitToDesktop/QuitToDesktop.dll",
-      "version":  "1.0.0",
-      "hash":  "2B7C84CE9C8708B627C1229A1CF23E036C8C30A6C3F7BF82D90528DD4894F998"
+      "version":  "1.0.1",
+      "hash":  "D9C6AE47514131793BDF2FD2A80CA6768E14601ACC2C2C6AF2BD86F20339D8DB"
     },
     "IncreasedResourceSpawns":  {
-      "lastChanged":  "2025-07-12T22:12:03Z",
+      "lastChanged":  "2025-08-16T15:49:04Z",
       "dllPath":  "bin/Subnautica/IncreasedResourceSpawns/IncreasedResourceSpawns.dll",
-      "version":  "1.0.0",
-      "hash":  "3577DF7930DF1E11A4C57D1787DFB7E7445DB9E66C459C6034689B78B8070754"
+      "version":  "1.0.1",
+      "hash":  "00860769BEA421795B83A891B01438747627798F69F5DC963EF3BEBAFF58EFDE"
     },
     "CyclopsEnhancedSonar":  {
-      "lastChanged":  "2025-07-12T22:12:04Z",
+      "lastChanged":  "2025-08-16T15:49:05Z",
       "dllPath":  "bin/Subnautica/CyclopsEnhancedSonar/CyclopsEnhancedSonar.dll",
-      "version":  "1.0.0.0",
-      "hash":  "9B14032132AC55F1AC048F3D6113A33C2C4F407DBBBC59B1324D13A945C471C0"
+      "version":  "1.0.1",
+      "hash":  "7A19288C3D2ADE25A092FDB96A604363A1BBC9E45623D791FA44CA8082BAE38A"
     },
     "CyclopsArmorUpgrades":  {
-      "lastChanged":  "2025-07-12T22:12:04Z",
+      "lastChanged":  "2025-08-16T15:49:05Z",
       "dllPath":  "bin/Subnautica/CyclopsArmorUpgrades/MoreCyclopsUpgrades.dll",
-      "version":  "1.0.0",
-      "hash":  "9DF366AEE2B7D881E4878536CB3A382CCD0D4F6F94317BBE38D289446899A943"
+      "version":  "1.0.1",
+      "hash":  "E6268AC5407AF1FF0076DB691E5D9000F49A085557CDE349378764F2ACEF7B0B"
     },
     "CyclopsEngineUpgrades":  {
-      "lastChanged":  "2025-07-12T22:12:04Z",
+      "lastChanged":  "2025-08-16T15:49:05Z",
       "dllPath":  "bin/Subnautica/CyclopsEngineUpgrades/CyclopsEngineUpgrades.dll",
-      "version":  "1.0.0.0",
-      "hash":  "47173A93859888CFF04492D21C3059433372AD57C88DA28A816DAA2D7F5237FB"
+      "version":  "1.0.1",
+      "hash":  "C8E8121D9EDC249BFBE2C2ACB17CE57BB86D2BE7BAA474125B767324F83F57B9"
     },
     "CustomPosters":  {
-      "lastChanged":  "2025-07-12T22:12:03Z",
+      "lastChanged":  "2025-08-16T15:49:04Z",
       "dllPath":  "bin/Subnautica/CustomPosters/CustomPosters.dll",
-      "version":  "2.0.0.0",
-      "hash":  "4200EACA4C13BDC9A5FA85D46FA682BA022752B9B29323DAD1135E1F73BD55E4"
+      "version":  "2.0.1",
+      "hash":  "EB58670F5BCF33F0F89B0586066418EC023D45DC186776D5E9F353B62825B72C"
     },
     "InstantBulkheadAnimations":  {
-      "lastChanged":  "2025-07-12T22:12:03Z",
+      "lastChanged":  "2025-08-16T15:49:04Z",
       "dllPath":  "bin/Subnautica/InstantBulkheadAnimations/InstantBulkheadAnimations.dll",
-      "version":  "2.0.0.0",
-      "hash":  "DB5BE95F6B9DDCB225E30BB81FBACF1C225A516D7E262EE74C50DC6731A22EE6"
+      "version":  "2.0.1",
+      "hash":  "6C6C549C45F71CB4791357319D423B8CD41B51998214649C0651D780473D23B6"
     },
     "ConfigurableDrillableCount":  {
-      "lastChanged":  "2025-07-12T22:12:04Z",
+      "lastChanged":  "2025-08-16T15:49:04Z",
       "dllPath":  "bin/Subnautica/ConfigurableDrillableCount/ConfigurableDrillableCount.dll",
-      "version":  "2.0.0.1",
-      "hash":  "4DAFA80E720C713D56A230640A7DD694BAD5EEF7740B817D9AC76133A420B1CE"
+      "version":  "2.0.1",
+      "hash":  "1240BF9968D5F1A3A3964887F6C2E795964BD2424BA023A206778F7F17F2F2A3"
     },
     "ImprovedPowerNetwork":  {
-      "lastChanged":  "2025-07-12T22:12:03Z",
+      "lastChanged":  "2025-08-16T15:49:04Z",
       "dllPath":  "bin/Subnautica/ImprovedPowerNetwork/ImprovedPowerNetwork.dll",
-      "version":  "2.0.0.0",
-      "hash":  "6E994B37F477084D0B264ADB4BC467CF365C2AFE51DDCE12E428DC7D024C5E60"
+      "version":  "2.0.1",
+      "hash":  "DB38DD400B83574BA49A1BD32AD677DCC47820D3F3F5760C613C67BED04EC7A4"
     },
     "CustomizeYourSpawns":  {
-      "lastChanged":  "2025-07-12T22:12:03Z",
+      "lastChanged":  "2025-08-16T15:49:04Z",
       "dllPath":  "bin/Subnautica/CustomizeYourSpawns/CustomizeYourSpawns.dll",
-      "version":  "2.0.0.0",
-      "hash":  "18DBA682B920C0F60772609E97B3424B022F3FA2F28E18F02995A5523C879DD1"
+      "version":  "2.0.1",
+      "hash":  "A16313193EF8720E605FF56F898C79183A4DB88FDC6CF69073BE63E610C402BF"
     },
     "IslandCloudRemoval":  {
-      "lastChanged":  "2025-07-12T22:12:03Z",
+      "lastChanged":  "2025-08-16T15:49:04Z",
       "dllPath":  "bin/Subnautica/IslandCloudRemoval/IslandCloudRemoval.dll",
-      "version":  "2.0.0.0",
-      "hash":  "F13ED073B23E225338287E5FF06D009EECEF916DD9F3283EF9EF11E785DB0BAA"
+      "version":  "2.0.1",
+      "hash":  "2E990D423C51A356629E5A0BA301235825F929FCC51584A1B976D7E7F81D9975"
     },
     "TechPistol":  {
-      "lastChanged":  "2025-07-12T22:12:04Z",
+      "lastChanged":  "2025-08-16T15:49:04Z",
       "dllPath":  "bin/Subnautica/TechPistol/TechPistol.dll",
-      "version":  "2.0.0.0",
-      "hash":  "E02DCC13419243036E3C4B266F9D4A317D3BE21991B0D0B009085C4F00FC56B7"
+      "version":  "2.0.1",
+      "hash":  "2F6C281DFED3ECDC5AEDA0F36512C0E0EEDF89C408A07A654431A62833A9E16C"
     },
     "KeepInventoryOnDeath":  {
-      "lastChanged":  "2025-07-12T22:12:03Z",
+      "lastChanged":  "2025-08-16T15:49:04Z",
       "dllPath":  "bin/Subnautica/KeepInventoryOnDeath/KeepInventoryOnDeath.dll",
-      "version":  "1.0.0",
-      "hash":  "F92D43261828B878344C201FB44859669D97E432185978639A253D45536AEA63"
+      "version":  "1.0.1",
+      "hash":  "409EE8C5F9793656C1E8596F5FD21BB64D5DF9CCF19871B477437EF8CB56B10E"
     },
     "MoreSeamothDepth":  {
-      "lastChanged":  "2025-07-12T22:12:04Z",
+      "lastChanged":  "2025-08-16T15:49:04Z",
       "dllPath":  "bin/Subnautica/MoreSeamothDepth/MoreSeamothDepth.dll",
-      "version":  "1.0.0",
-      "hash":  "845243F42CDDBC4D77B5579E77ED44611E05DB8009E729F94597383DBE78C016"
+      "version":  "1.0.1",
+      "hash":  "550D0EA320EE107D8DB9A3862757F8984BB17BABDBC7D4703F2F2375D00A5121"
     },
     "Defabricator":  {
-      "lastChanged":  "2025-07-12T22:12:04Z",
+      "lastChanged":  "2025-08-16T15:49:05Z",
       "dllPath":  "bin/Subnautica/Defabricator/Defabricator.dll",
-      "version":  "2.0.1",
-      "hash":  "03590D62163A8F89059E11ED464F55D85D683E93CDB0AB278D2382149A9749CA"
+      "version":  "2.0.2",
+      "hash":  "281F03658002BC3CEC68BE1714200A472D56CBABB3EC0A0FABD8BC1C9146F144"
     },
     "ScannableTimeCapsules":  {
-      "lastChanged":  "2025-07-12T22:12:04Z",
+      "lastChanged":  "2025-08-16T15:49:05Z",
       "dllPath":  "bin/Subnautica/ScannableTimeCapsules/ScannableTimeCapsules.dll",
-      "version":  "2.0.0.0",
-      "hash":  "F3D4D611FD63640DC0D5123A03B87BF211665EBB9BAF914B7F8217BEA315CC39"
+      "version":  "2.0.1",
+      "hash":  "50ACD033A45573957D64EDA2384416BA6577E7BC567A26643C18C4EFA3CB61AF"
     },
     "CustomCraft3":  {
-      "lastChanged":  "2025-07-12T22:12:04Z",
+      "lastChanged":  "2025-08-16T15:49:05Z",
       "dllPath":  "bin/Subnautica/CustomCraft3/CustomCraft3.dll",
-      "version":  "1.0.0.4",
-      "hash":  "67A9A658F9A06A4E6791AC45DAAE6D352903806B29F45A9EFA6D174CFF6F7F86"
+      "version":  "1.0.1",
+      "hash":  "5CAE339FC32C4D48F692B50D4B5DE45E3B271D3F3754FA1F3B8EF61396C69ABD"
     },
     "NoEatingSounds":  {
-      "lastChanged":  "2025-07-12T22:12:03Z",
+      "lastChanged":  "2025-08-16T15:49:04Z",
       "dllPath":  "bin/Subnautica/NoEatingSounds/NoEatingSounds.dll",
-      "version":  "2.0.0.0",
-      "hash":  "025B62AA091E56BE9A436E1F3C64F46F8C016AA1446827E5A462D7539ED02848"
+      "version":  "2.0.1",
+      "hash":  "3CAD6778B8B2B4E3EAB15783E466F590A1061DE9921441888DC3239107507EA3"
     },
     "CyclopsNuclearUpgrades":  {
-      "lastChanged":  "2025-07-12T22:12:04Z",
+      "lastChanged":  "2025-08-16T15:49:05Z",
       "dllPath":  "bin/Subnautica/CyclopsNuclearUpgrades/CyclopsNuclearUpgrades.dll",
-      "version":  "1.0.0.0",
-      "hash":  "1A9525AE214957569A2CEF0B18ED92487B6D48705D4A31A0DA3AFA4F954067FA"
+      "version":  "1.0.1",
+      "hash":  "7D7520D0C40233D2A7465CCD8970520351A4F085C82B65DF486E917DDD5FB5C2"
     },
     "CopperFromScanning":  {
-      "lastChanged":  "2025-07-12T22:12:03Z",
+      "lastChanged":  "2025-08-16T15:49:04Z",
       "dllPath":  "bin/Subnautica/CopperFromScanning/CopperFromScanning.dll",
-      "version":  "2.0.0.0",
-      "hash":  "4682C41C38CFF39092CB2F54D7D4A22BF45597E62C2785B1C3F1B4A8B3BEE717"
+      "version":  "2.0.1",
+      "hash":  "0287C8DFB06C9701C3281C944A50C74D03470333CB3CF0CB8DE41A324B8EA7FA"
     },
     "MoreCyclopsUpgrades":  {
-      "lastChanged":  "2025-07-12T22:12:04Z",
+      "lastChanged":  "2025-08-16T15:49:05Z",
       "dllPath":  "bin/Subnautica/MoreCyclopsUpgrades/MoreCyclopsUpgrades.dll",
-      "version":  "1.0.2",
-      "hash":  "9DF366AEE2B7D881E4878536CB3A382CCD0D4F6F94317BBE38D289446899A943"
+      "version":  "1.0.3",
+      "hash":  "E6268AC5407AF1FF0076DB691E5D9000F49A085557CDE349378764F2ACEF7B0B"
     },
     "ConfigurableChunkDrops":  {
-      "lastChanged":  "2025-07-12T22:12:03Z",
+      "lastChanged":  "2025-08-16T15:49:04Z",
       "dllPath":  "bin/Subnautica/ConfigurableChunkDrops/ConfigurableChunkDrops.dll",
-      "version":  "2.0.1",
-      "hash":  "716C2442C5B0D5CE5655C7CB2DA2DF2B2016729CFFB25AE179078396DA970655"
+      "version":  "2.0.2",
+      "hash":  "D1BB23DEB11D316C4AFA6270AB35A503F0A82CD577FC67D3AD28CAE3E14788DA"
     },
     "CyclopsSimpleSolar":  {
-      "lastChanged":  "2025-07-12T22:12:04Z",
+      "lastChanged":  "2025-08-16T15:49:05Z",
       "dllPath":  "bin/Subnautica/CyclopsSimpleSolar/CyclopsSimpleSolar.dll",
-      "version":  "1.0.0.0",
-      "hash":  "47BC5C75ED2153544959F745D92106445692FC7A01CBEFA0C10305F0292E7681"
+      "version":  "1.0.1",
+      "hash":  "3F16F9F0CBF47274917F82C4EFF3B821052A9A2E5029F977D9CDA12A769A5B19"
     },
     "PowerOrder":  {
-      "lastChanged":  "2025-07-12T22:12:04Z",
+      "lastChanged":  "2025-08-16T15:49:04Z",
       "dllPath":  "bin/Subnautica/PowerOrder/PowerOrder.dll",
-      "version":  "2.0.0.0",
-      "hash":  "84ED5EB32A22FE059BA0892ADD1C182E43FD876CCEDAD7C6BE441FB11B9EE5B2"
+      "version":  "2.0.1",
+      "hash":  "E812B5F9E163579BF18FA5312082BE68327B768B8CF7B8F6ADF6BC8633F4422A"
     },
     "ToolInspection":  {
-      "lastChanged":  "2025-07-12T22:12:04Z",
+      "lastChanged":  "2025-08-16T15:49:04Z",
       "dllPath":  "bin/Subnautica/ToolInspection/ToolInspection.dll",
-      "version":  "2.0.0.0",
-      "hash":  "26444E189EC76481F2FFD29F86AC829FEC70B0219512B1650876BDC9B88BAE72"
+      "version":  "2.0.1",
+      "hash":  "2F6C26B7F0E9088A7104733A0FCAF142B781D0A5B4B318D8E67A6180BDFDFED6"
     },
     "FabricatorNoAutoClose":  {
-      "lastChanged":  "2025-07-12T22:12:03Z",
+      "lastChanged":  "2025-08-16T15:49:04Z",
       "dllPath":  "bin/Subnautica/FabricatorNoAutoClose/FabricatorNoAutoClose.dll",
-      "version":  "2.0.0.0",
-      "hash":  "6E9F870A99AFD23C02FD2DAC639E3D10843F94B7C5015B3C860010CC71CDBF32"
+      "version":  "2.0.1",
+      "hash":  "F1F748014709661041AE71DCACC1C22258FBCD2BB08AE1D4CC3E036073D1A94F"
     },
     "ChargeRequired":  {
-      "lastChanged":  "2025-07-12T22:12:03Z",
+      "lastChanged":  "2025-08-16T15:49:04Z",
       "dllPath":  "bin/Subnautica/ChargeRequired/ChargeRequired.dll",
-      "version":  "2.0.1",
-      "hash":  "D66293061B407E65733DBF779D134146404ADD470DC4E638D3B247233EAB4373"
+      "version":  "2.0.2",
+      "hash":  "553FA2A1F5FECCF9E7ABA2F07F71782E2EE84E270FAC15FDA40AB166E316AF44"
     },
     "UpgradedVehicles":  {
-      "lastChanged":  "2025-07-12T22:12:04Z",
+      "lastChanged":  "2025-08-16T15:49:05Z",
       "dllPath":  "bin/Subnautica/UpgradedVehicles/UpgradedVehicles.dll",
-      "version":  "1.0.4",
-      "hash":  "063C8A886397D982A30AF15F6E63E161B529AC9722318920CE05EE18E026994B"
+      "version":  "1.0.5",
+      "hash":  "C3DE7F7021CA8359225FDEC2C0D140046E2DCBC71D268C81878B6C6B69863498"
     },
     "AIOFabricator":  {
-      "lastChanged":  "2025-07-12T22:12:04Z",
+      "lastChanged":  "2025-08-16T15:49:05Z",
       "dllPath":  "bin/Subnautica/AIOFabricator/AIOFabricator.dll",
-      "version":  "1.0.0.1",
-      "hash":  "38A280F2C51FA5FE58BD1984BED3780965FBAA6B04586E7C77369E5EDB253085"
+      "version":  "1.0.1",
+      "hash":  "8557ED3567F6C14EACE00146E4F9FF32E2578A721AE0514A6AC53A05F0BF547A"
     },
     "BaseKits":  {
-      "lastChanged":  "2025-07-12T22:12:03Z",
+      "lastChanged":  "2025-08-16T15:49:04Z",
       "dllPath":  "bin/Subnautica/BaseKits/BaseKits.dll",
-      "version":  "2.0.0.0",
-      "hash":  "CD4B86003477F61A0F3AF6C3EEBAD902277833D2E94D6365744DFB3576EAF138"
+      "version":  "2.0.1",
+      "hash":  "0E328B731BFA60D73E949D8F6BE200310F44B52C760EB51CCCF264406EC73E77"
     },
     "AllItems1x1":  {
-      "lastChanged":  "2025-07-12T22:12:03Z",
+      "lastChanged":  "2025-08-16T15:49:04Z",
       "dllPath":  "bin/Subnautica/AllItems1x1/AllItems1x1.dll",
-      "version":  "1.0.0",
-      "hash":  "C78E1D5C173267485DE138BD359439F2BDD108B2D2567A3F04DC7B9173082306"
+      "version":  "1.0.1",
+      "hash":  "270099BC3C113B81DC5CCBBECAF9B1743684E1EECBBD16B0ED90830561CF786A"
     },
     "CyclopsSpeedUpgrades":  {
-      "lastChanged":  "2025-07-12T22:12:04Z",
+      "lastChanged":  "2025-08-16T15:49:05Z",
       "dllPath":  "bin/Subnautica/CyclopsSpeedUpgrades/CyclopsSpeedUpgrades.dll",
-      "version":  "1.0.0.0",
-      "hash":  "8C46BDB3931F9857DCDF1AD6BFF99E8CD174CF77A6273525C1A822ED06A87864"
+      "version":  "1.0.1",
+      "hash":  "322E4B48607A017ACE36186C1CA5678AD199A29E508D7A433DA26C4636A91451"
     },
     "BetterBioReactor":  {
-      "lastChanged":  "2025-07-12T22:12:04Z",
+      "lastChanged":  "2025-08-16T15:49:04Z",
       "dllPath":  "bin/Subnautica/BetterBioReactor/BetterBioReactor.dll",
-      "version":  "1.0.0.0",
-      "hash":  "4305623AECB9A188BDB530C578F960BCBE058E7582E17AD55D51D7AE95458FC6"
+      "version":  "1.0.1",
+      "hash":  "24D2AA27CA2154EECF47E578886006C3FD66E94EF4A53E5D4E1105258D32BE98"
     },
     "DropUpgradesOnDestroy":  {
-      "lastChanged":  "2025-07-12T22:12:03Z",
+      "lastChanged":  "2025-08-16T15:49:04Z",
       "dllPath":  "bin/Subnautica/DropUpgradesOnDestroy/DropUpgradesOnDestroy.dll",
-      "version":  "2.0.0.0",
-      "hash":  "F88F84BC095F4A7A5F044B46F913CAD7FE0C0597B19E58AACC2A7B5A94AB8319"
+      "version":  "2.0.1",
+      "hash":  "12E458FD1E2EC06E8D329A0E5F4C1351C618CD6CB0E21AA293E31353E3D64BAE"
     },
     "BetterScannerRoom":  {
-      "lastChanged":  "2025-07-12T22:12:03Z",
+      "lastChanged":  "2025-08-16T15:49:04Z",
       "dllPath":  "bin/Subnautica/BetterScannerRoom/BetterScannerRoom.dll",
-      "version":  "2.0.0.0",
-      "hash":  "27965696FC60AE10C5C981CE489D42D06937582EC820AE9AFC9195CF9943DD25"
+      "version":  "2.0.1",
+      "hash":  "7DD744912B71C30E590485602B35449551C67A5099E9B164EA7DF8C120B6113C"
     },
     "NoMask":  {
-      "lastChanged":  "2025-07-12T22:12:04Z",
+      "lastChanged":  "2025-08-16T15:49:04Z",
       "dllPath":  "bin/Subnautica/NoMask/NoMask.dll",
-      "version":  "2.0.0.0",
-      "hash":  "BB5D28178171E0928E5DF671B6A1E559504A208BA63AE4B928BF83A2537B9E0B"
+      "version":  "2.0.1",
+      "hash":  "6E84FBDB65BA22C0ED8A40E7B54374FDDB95A9EDACF190FCDDA931676C3F75E3"
     },
     "WarpersNoWarping":  {
-      "lastChanged":  "2025-07-12T22:12:04Z",
+      "lastChanged":  "2025-08-16T15:49:04Z",
       "dllPath":  "bin/Subnautica/WarpersNoWarping/WarpersNoWarping.dll",
-      "version":  "2.0.0.0",
-      "hash":  "181B2FB18F325CB3FBBBBB8A430D1BCE0C6CB3F06C63212F2B00794514013D20"
+      "version":  "2.0.1",
+      "hash":  "E42A7EFCFF4E04541A994DFB3C19A8973D5F0E4ACCCE6FBA3141D39662308F6B"
     },
     "CyclopsAutoZapper":  {
-      "lastChanged":  "2025-07-12T22:12:04Z",
+      "lastChanged":  "2025-08-16T15:49:05Z",
       "dllPath":  "bin/Subnautica/CyclopsAutoZapper/CyclopsAutoZapper.dll",
-      "version":  "1.0.1",
-      "hash":  "BB5332FB5F9C6DAE65AE84CAE4A2CE88A39F8F9D3CF3451D9ACCC3C9CF003BD3"
+      "version":  "1.0.2",
+      "hash":  "334CF6E406066E71A7EF01B07C240CA085E052F6B06A4EDA96225A6F0C3D6768"
     },
     "BuilderModule":  {
-      "lastChanged":  "2025-07-12T22:12:03Z",
+      "lastChanged":  "2025-08-16T15:49:04Z",
       "dllPath":  "bin/Subnautica/BuilderModule/BuilderModule.dll",
-      "version":  "2.0.0.0",
-      "hash":  "BB71FD003E3B736A02D674A6B7C358203C8CCC5BF38EAF6D96AA2A2D3A43E82C"
+      "version":  "2.0.1",
+      "hash":  "7A51F4870492AB0BC147A99242B11C97D9259287279F265E8758EBEBDF1A70E3"
     },
     "GravTrapStorage":  {
-      "lastChanged":  "2025-07-12T22:12:03Z",
+      "lastChanged":  "2025-08-16T15:49:04Z",
       "dllPath":  "bin/Subnautica/GravTrapStorage/GravTrapStorage.dll",
-      "version":  "2.0.0.1",
-      "hash":  "CD5A8E2B08715A9FF446EBE1F9038DB65811289E9B443B0385FC1B4A82C1F32F"
+      "version":  "2.0.1",
+      "hash":  "CEE135596EB713939F6F6CBC61BE487E4F2B60F016E7CF5E7CE2E6141BA52851"
     },
     "CustomHullPlates":  {
-      "lastChanged":  "2025-07-12T22:12:04Z",
+      "lastChanged":  "2025-08-16T15:49:04Z",
       "dllPath":  "bin/Subnautica/CustomHullPlates/CustomHullPlates.dll",
-      "version":  "2.0.0.0",
-      "hash":  "5D73371B1A09007DFA21DFBCAF3D92A9EC174DE0E811E4A01894DC8037AF7736"
+      "version":  "2.0.1",
+      "hash":  "4E7D64CEF4DADDB58F15DE528589BCBA1B5EF9A5D0F8F1C77D56AFFDEAD49481"
     },
     "BetterScannerBlips":  {
-      "lastChanged":  "2025-07-12T22:12:04Z",
+      "lastChanged":  "2025-08-16T15:49:05Z",
       "dllPath":  "bin/Subnautica/BetterScannerBlips/BetterScannerBlips.dll",
-      "version":  "1.0.0",
-      "hash":  "CF8A1F46365DEB653AABE4424484306A8A4184AF0FD62F057B518A7D6E441235"
+      "version":  "1.0.1",
+      "hash":  "C1CFD0D201AAE2F8015877A54ACA30EEAB65C37BB6FC0CFD883FD9B639783BDD"
     },
     "TimeEternal":  {
-      "lastChanged":  "2025-07-12T22:12:04Z",
+      "lastChanged":  "2025-08-16T15:49:04Z",
       "dllPath":  "bin/Subnautica/TimeEternal/TimeEternal.dll",
-      "version":  "1.0.0",
-      "hash":  "A14272C97986DDED2E39454DE73E61975DEE0500CE0609DD2C6E5F6CA7FEE6B4"
+      "version":  "1.0.1",
+      "hash":  "87FE011F8FF1AD9BE20A21A5E15D9FF9C43317F42630B88C55F73E24FF3049EF"
     },
     "UnknownName":  {
-      "lastChanged":  "2025-07-12T22:12:04Z",
+      "lastChanged":  "2025-08-16T15:49:04Z",
       "dllPath":  "bin/Subnautica/UnknownName/UnknownName.dll",
-      "version":  "1.0.0",
-      "hash":  "3DAB4EDD5B8E72A188B9DA37017D23DD507D30AEC84F0EC315D273B54EC2B747"
+      "version":  "1.0.1",
+      "hash":  "2E3CB57D78E97324FCCD17125D515474A4EF0390B8A4219087A318C3DD479C5F"
     },
     "RandomCreatureSize":  {
-      "lastChanged":  "2025-07-12T22:12:04Z",
+      "lastChanged":  "2025-08-16T15:49:04Z",
       "dllPath":  "bin/Subnautica/RandomCreatureSize/RandomCreatureSize.dll",
-      "version":  "2.0.0.0",
-      "hash":  "CC6A24E7A925CB33CD2D360B937DED284BA9CAD4AA783795C7EEE74B284A71B9"
+      "version":  "2.0.1",
+      "hash":  "786B6A3A88600DDD44CA5A72C65C8DC1940DBEAD99B474635D9B911635235AB8"
     }
   },
   "metadata":  {
     "description":  "Mod version tracking and hash verification for UnifiedSubnautica",
-    "lastUpdated":  "2025-07-12T22:43:09Z",
+    "lastUpdated":  "2025-08-16T16:21:24Z",
     "formatVersion":  "2.0"
   }
 }

@@ -48,6 +48,142 @@
 				"$msCompile"
 			],
 			"group": "build"
+		},
+		{
+			"label": "Versioning Dry-Run",
+			"type": "shell",
+			"command": "powershell.exe",
+			"args": [
+				"-NoProfile",
+				"-ExecutionPolicy",
+				"Bypass",
+				"-File",
+				"c:\\Repos\\MrPurple6411\\UnifiedSubnautica\\manage-versions.ps1",
+				"-SyncOnline",
+				"-SelectiveBuild",
+				"-DryRun"
+			],
+			"isBackground": false,
+			"problemMatcher": [],
+			"group": "build"
+		},
+		{
+			"label": "Versioning Dry-Run",
+			"type": "shell",
+			"command": "powershell.exe",
+			"args": [
+				"-NoProfile",
+				"-ExecutionPolicy",
+				"Bypass",
+				"-File",
+				"c:\\Repos\\MrPurple6411\\UnifiedSubnautica\\manage-versions.ps1",
+				"-SyncOnline",
+				"-SelectiveBuild",
+				"-DryRun"
+			],
+			"isBackground": false,
+			"problemMatcher": [],
+			"group": "build"
+		},
+		{
+			"label": "Versioning Dry-Run",
+			"type": "shell",
+			"command": "powershell.exe",
+			"args": [
+				"-NoProfile",
+				"-ExecutionPolicy",
+				"Bypass",
+				"-File",
+				"c:\\Repos\\MrPurple6411\\UnifiedSubnautica\\manage-versions.ps1",
+				"-SyncOnline",
+				"-SelectiveBuild",
+				"-DryRun"
+			],
+			"isBackground": false,
+			"problemMatcher": [],
+			"group": "build"
+		},
+		{
+			"label": "Versioning Dry-Run (Changelog)",
+			"type": "shell",
+			"command": "powershell.exe",
+			"args": [
+				"-NoProfile",
+				"-ExecutionPolicy",
+				"Bypass",
+				"-File",
+				"c:\\Repos\\MrPurple6411\\UnifiedSubnautica\\manage-versions.ps1",
+				"-SyncOnline",
+				"-SelectiveBuild",
+				"-DryRun"
+			],
+			"isBackground": false,
+			"problemMatcher": [],
+			"group": "build"
+		},
+		{
+			"label": "Versioning: CheckForChanges",
+			"type": "shell",
+			"command": "powershell.exe",
+			"args": [
+				"-NoProfile",
+				"-ExecutionPolicy",
+				"Bypass",
+				"-File",
+				"c:\\Repos\\MrPurple6411\\UnifiedSubnautica\\manage-versions.ps1",
+				"-CheckForChanges"
+			],
+			"isBackground": false,
+			"problemMatcher": [],
+			"group": "build"
+		},
+		{
+			"label": "Versioning: UpdateVersions",
+			"type": "shell",
+			"command": "powershell.exe",
+			"args": [
+				"-NoProfile",
+				"-ExecutionPolicy",
+				"Bypass",
+				"-File",
+				"c:\\Repos\\MrPurple6411\\UnifiedSubnautica\\manage-versions.ps1",
+				"-UpdateVersions"
+			],
+			"isBackground": false,
+			"problemMatcher": [],
+			"group": "build"
+		},
+		{
+			"label": "Build Fallout Shelter ExampleMod",
+			"type": "shell",
+			"command": "powershell",
+			"args": [
+				"-ExecutionPolicy",
+				"Bypass",
+				"-NoProfile",
+				"-Command",
+				"Set-Location 'c:\\Repos\\MrPurple6411\\FalloutShelter'; ./build.ps1 -Rebuild"
+			],
+			"problemMatcher": [
+				"$msCompile"
+			],
+			"group": "build"
+		},
+		{
+			"label": "Build AutoScanningChip",
+			"type": "shell",
+			"command": "powershell.exe",
+			"args": [
+				"-NoProfile",
+				"-ExecutionPolicy",
+				"Bypass",
+				"-Command",
+				"& { dotnet build \"c:\\Repos\\MrPurple6411\\UnifiedSubnautica\\UnifiedVSSolution.sln\" -c Debug -v minimal --nologo --no-incremental --nologo | cat }"
+			],
+			"problemMatcher": [
+				"$msCompile"
+			],
+			"group": "build"
 		}
 	]
 }

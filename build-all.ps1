@@ -18,6 +18,8 @@
     Clean before building
 .PARAMETER Rebuild
     Clean and then build (combines Clean + Build)
+.PARAMETER Project
+    One or more project name/path fragments to filter. If provided, only matching projects will be built.
 .EXAMPLE
     .\build-all.ps1
     .\build-all.ps1 -Subnautica
@@ -32,10 +34,20 @@ param(
     [switch]$BelowZero,
     [switch]$Verbose,
     [switch]$Clean,
-    [switch]$Rebuild
+    [switch]$Rebuild,
+    # Build only a subset of projects by name or path fragment (case-insensitive). Example: -Project AutoScanningChip, CopperFromScanning
+    [string[]]$Project
 )
 
 $ErrorActionPreference = "Stop"
+
+# Resolve script directory and generator paths for reliability across job runspaces
+$scriptDir = Split-Path -Parent $MyInvocation.MyCommand.Path
+$genSNPath = Join-Path $scriptDir 'GenerateSubnauticaSlnf.ps1'
+$genBZPath = Join-Path $scriptDir 'GenerateBelowZeroSlnf.ps1'
+
+# Determine if we're doing a selective build based on project filters
+$isSelective = ($Project -and $Project.Count -gt 0)
 
 # Parse configurations to build
 $configs = @()
@@ -54,25 +66,67 @@ Write-Host "Configurations to build: $($configs -join ', ')" -ForegroundColor Ye
 # Step 1: Regenerate solution filters (unless skipped)
 if (-not $SkipRegenerate) {
     Write-Host "`nStep 1: Regenerating solution filters..." -ForegroundColor Green
-    
-    if ($configs -contains "Subnautica") {
-        Write-Host "  Generating Subnautica.slnf..." -ForegroundColor Yellow
-        & .\GenerateSubnauticaSlnf.ps1
-        if ($LASTEXITCODE -ne 0) {
-            Write-Host "FAILED to generate Subnautica solution filter" -ForegroundColor Red
+
+    $doSubnautica = $configs -contains "Subnautica"
+    $doBelowZero = $configs -contains "BelowZero"
+
+    # If both configurations are selected, generate in parallel to save time
+    if ($doSubnautica -and $doBelowZero) {
+        Write-Host "  Running Subnautica.slnf and BelowZero.slnf generation in parallel..." -ForegroundColor Yellow
+
+        $jobs = @()
+        $jobs += Start-Job -Name "Gen-SN" -ScriptBlock {
+            param($quiet, $genPath, $workDir)
+            Set-Location $workDir
+            if ($quiet) { & $genPath -Quiet } else { & $genPath }
+        } -ArgumentList @($isSelective, $genSNPath, $scriptDir)
+
+        $jobs += Start-Job -Name "Gen-BZ" -ScriptBlock {
+            param($quiet, $genPath, $workDir)
+            Set-Location $workDir
+            if ($quiet) { & $genPath -Quiet } else { & $genPath }
+        } -ArgumentList @($isSelective, $genBZPath, $scriptDir)
+
+        Wait-Job -Job $jobs | Out-Null
+
+        $failed = $false
+        foreach ($j in $jobs) {
+            if ($j.State -ne 'Completed') { $failed = $true }
+            # surface any job errors
+            $errs = ($j.ChildJobs | ForEach-Object { $_.Error })
+            if ($errs -and $errs.Count -gt 0) { $failed = $true }
+            Receive-Job -Job $j | ForEach-Object { if ($_) { Write-Host "  [$($j.Name)] $_" -ForegroundColor DarkGray } }
+            Remove-Job -Job $j -Force | Out-Null
+        }
+
+        # Verify files exist
+        if (-not (Test-Path 'Subnautica.slnf')) { $failed = $true; Write-Host "  Missing Subnautica.slnf after generation" -ForegroundColor Red }
+        if (-not (Test-Path 'BelowZero.slnf')) { $failed = $true; Write-Host "  Missing BelowZero.slnf after generation" -ForegroundColor Red }
+
+        if ($failed) {
+            Write-Host "FAILED to generate solution filters" -ForegroundColor Red
             exit 1
         }
     }
-    
-    if ($configs -contains "BelowZero") {
-        Write-Host "  Generating BelowZero.slnf..." -ForegroundColor Yellow
-        & .\GenerateBelowZeroSlnf.ps1
-        if ($LASTEXITCODE -ne 0) {
-            Write-Host "FAILED to generate BelowZero solution filter" -ForegroundColor Red
-            exit 1
+    else {
+        if ($doSubnautica) {
+            Write-Host "  Generating Subnautica.slnf..." -ForegroundColor Yellow
+            if ($isSelective) { & $genSNPath -Quiet } else { & $genSNPath }
+            if ($LASTEXITCODE -ne 0 -or -not (Test-Path 'Subnautica.slnf')) {
+                Write-Host "FAILED to generate Subnautica solution filter" -ForegroundColor Red
+                exit 1
+            }
+        }
+        if ($doBelowZero) {
+            Write-Host "  Generating BelowZero.slnf..." -ForegroundColor Yellow
+            if ($isSelective) { & $genBZPath -Quiet } else { & $genBZPath }
+            if ($LASTEXITCODE -ne 0 -or -not (Test-Path 'BelowZero.slnf')) {
+                Write-Host "FAILED to generate BelowZero solution filter" -ForegroundColor Red
+                exit 1
+            }
         }
     }
-    
+
     Write-Host "SUCCESS: Solution filters regenerated successfully" -ForegroundColor Green
 } else {
     Write-Host "`nSkipping solution filter regeneration (using existing filters)" -ForegroundColor Yellow
@@ -182,8 +236,95 @@ if (-not $Clean -or $Rebuild) {
         continue
     }
     
+    # If selective mode is enabled, generate a temporary filtered solution filter with only the requested projects
+    $slnfToBuild = $slnfFile
+    $matchedCount = $null
+    if ($isSelective) {
+        if (-not $Project -or $Project.Count -eq 0) {
+            Write-Host "ERROR: Project filters were expected but none were provided." -ForegroundColor Red
+            $buildResults += [PSCustomObject]@{
+                Configuration = $config
+                Status = "Failed"
+                Error = "Selective build requested without any project filters"
+                Duration = "00:00"
+                ProjectCount = 0
+            }
+            continue
+        }
+
+        try {
+            $json = Get-Content -Raw -Path $slnfFile | ConvertFrom-Json
+        }
+        catch {
+            Write-Host "ERROR: Failed to parse $slnfFile as JSON: $_" -ForegroundColor Red
+            $buildResults += [PSCustomObject]@{
+                Configuration = $config
+                Status = "Failed"
+                Error = "Invalid slnf JSON"
+                Duration = "00:00"
+                ProjectCount = 0
+            }
+            continue
+        }
+
+        $allProjects = @($json.solution.projects)
+        # Normalize filters: split comma-delimited entries and trim whitespace
+        $filters = @()
+        foreach ($arg in $Project) {
+            if ($null -ne $arg) {
+                $parts = $arg -split ','
+                foreach ($p2 in $parts) {
+                    $t = $p2.Trim()
+                    if (-not [string]::IsNullOrWhiteSpace($t)) { $filters += $t }
+                }
+            }
+        }
+        $filtered = @()
+
+        foreach ($p in $allProjects) {
+            $pNoExt = [System.IO.Path]::GetFileNameWithoutExtension($p)
+            foreach ($f in $filters) {
+                if ([string]::IsNullOrWhiteSpace($f)) { continue }
+                if ($p -like "*${f}*" -or $pNoExt.Equals($f, [System.StringComparison]::InvariantCultureIgnoreCase)) {
+                    $filtered += $p
+                    break
+                }
+            }
+        }
+
+        # Ensure uniqueness
+    $filtered = $filtered | Sort-Object -Unique
+
+        if ($filtered.Count -eq 0) {
+            Write-Host "  Selective build: no projects matched for $config. Skipping this configuration." -ForegroundColor Yellow
+            $buildResults += [PSCustomObject]@{
+                Configuration = $config
+                Status = "Skipped"
+                Error = "No matching projects for selective build"
+                Duration = "00:00"
+                ProjectCount = 0
+            }
+            continue
+        }
+
+        Write-Host "  Selective build enabled. Projects matched ($($filtered.Count)):" -ForegroundColor Yellow
+        foreach ($fp in $filtered) { Write-Host "    $fp" -ForegroundColor DarkYellow }
+
+        $selectiveObj = [PSCustomObject]@{
+            solution = [PSCustomObject]@{
+                path = $json.solution.path
+                projects = @($filtered)
+            }
+        }
+
+        $selectivePath = "$config.selective.slnf"
+        $selectiveObj | ConvertTo-Json -Depth 5 | Out-File -FilePath $selectivePath -Encoding UTF8
+        $slnfToBuild = $selectivePath
+        $matchedCount = $filtered.Count
+    }
+
     # Build command
-    $buildArgs = @("build", $slnfFile, "--configuration", $config)
+    $buildArgs = @("build", $slnfToBuild, "--configuration", $config)
     if ($Verbose) {
         $buildArgs += "--verbosity", "detailed"
     }
@@ -199,10 +340,14 @@ if (-not $Clean -or $Rebuild) {
     # Check results        
     if ($buildExitCode -eq 0) {
         # Count built projects
-        $binPath = "bin\$config"
-        $projectCount = 0
-        if (Test-Path $binPath) {
-            $projectCount = (Get-ChildItem -Path $binPath -Filter "*.dll" -Recurse | Where-Object { $_.Directory.Name -eq $_.BaseName }).Count
+    if ($isSelective -and $null -ne $matchedCount) {
+            $projectCount = [int]$matchedCount
+        } else {
+            $binPath = "bin\$config"
+            $projectCount = 0
+            if (Test-Path $binPath) {
+                $projectCount = (Get-ChildItem -Path $binPath -Filter "*.dll" -Recurse | Where-Object { $_.Directory.Name -eq $_.BaseName }).Count
+            }
         }
         
         Write-Host "SUCCESS: $config build completed successfully!" -ForegroundColor Green
@@ -240,10 +385,13 @@ if (-not $Clean -or $Rebuild) {
         $statusColor = if ($_.Status -eq "Success") { "Green" } else { "Red" }
         $statusIcon = if ($_.Status -eq "Success") { "[SUCCESS]" } else { "[FAILED]" }
         
-        Write-Host "$statusIcon $($_.Configuration): $($_.Status)" -ForegroundColor $statusColor
-        if ($_.Status -eq "Success") {
+        if ($_.Status -eq "Skipped") {
+            Write-Host "[SKIPPED] $($_.Configuration): No matching projects" -ForegroundColor Yellow
+        } elseif ($_.Status -eq "Success") {
+            Write-Host "$statusIcon $($_.Configuration): $($_.Status)" -ForegroundColor $statusColor
             Write-Host "   Projects: $($_.ProjectCount), Duration: $($_.Duration)" -ForegroundColor Gray
         } else {
+            Write-Host "$statusIcon $($_.Configuration): $($_.Status)" -ForegroundColor $statusColor
             Write-Host "   Error: $($_.Error)" -ForegroundColor Red
         }
     }

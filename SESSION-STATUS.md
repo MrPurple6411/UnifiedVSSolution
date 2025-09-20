@@ -33,28 +33,34 @@
 - Baseline represents true current state (no mod code changes, only tooling)
 - Ready for online checking and automation features
 
-## Next Phase: Online Auto-Versioning System 🚀
+## Online Auto-Versioning System 🚀
 
-### Core Goal
-Create a system that:
-1. **Fetches** the `mod-versions.json` from GitHub (online baseline)
-2. **Compares** local DLL hashes against online baseline
-3. **Auto-increments** versions for changed mods
-4. **Rebuilds** only affected configurations
-5. **Commits & pushes** updated version file automatically
+Status: Implemented (with dry-run verified). Uses online baseline, selective builds, version bump, and optional commit/push.
 
-### Key Features to Implement
-- **Online baseline fetching** from GitHub API
-- **Smart rebuild logic** (only build configs with changes)
-- **Automated commit/push** workflow
-- **Change detection** with detailed reporting
-- **Error handling** for network issues, build failures
-- **Dry-run mode** for testing without changes
+### What it does
+1. Fetches the `mod-versions.json` baseline from GitHub (raw URL) with a git fallback to `origin/main:mod-versions.json`.
+2. Compares local DLL hashes vs the online baseline.
+3. Selectively builds only configurations with differences (optional).
+4. Auto-increments versions for changed mods and adds new mods.
+5. Writes the updated `mod-versions.json` and optionally commits/pushes.
 
-### Files Ready for Enhancement
-- `manage-versions.ps1` - Add online checking functions
-- `build-all.ps1` - Already supports selective building
-- `mod-versions.json` - Perfect baseline established
+### Usage
+```powershell
+# Dry-run: fetch baseline, decide what would build, compute version bumps, but do not write/push
+.\manage-versions.ps1 -SyncOnline -SelectiveBuild -DryRun
+
+# Do it for real and commit/push changes (requires remote auth)
+.\manage-versions.ps1 -SyncOnline -SelectiveBuild -CommitAndPush
+
+# Limit to one configuration
+.\manage-versions.ps1 -SyncOnline -OnlySubnautica -CommitAndPush
+.\manage-versions.ps1 -SyncOnline -OnlyBelowZero  -CommitAndPush
+```
+
+Notes:
+- Fallback path uses `git show origin/<branch>:<path>` if raw fetch fails; run `git fetch` first if needed.
+- Push uses your existing git remote auth (SSH recommended). No tokens are stored by the script.
+- The script preserves our 2-space JSON formatting and updates `metadata.lastUpdated`.
 
 ## Current Working Directory
 `c:\Repos\MrPurple6411\UnifiedSubnautica`
