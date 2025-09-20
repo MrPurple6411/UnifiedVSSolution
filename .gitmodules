@@ -1,24 +1,24 @@
 [submodule "Alexejhero-Subnautica-Mods"]
 	path = Alexejhero-Subnautica-Mods
-	url = https://github.com/MrPurple6411/Alexejhero-Subnautica-Mods
+	url = git@github.com:MrPurple6411/Alexejhero-Subnautica-Mods.git
 [submodule "BetterScannerRoom"]
 	path = BetterScannerRoom
-	url = https://github.com/MrPurple6411/BetterScannerRoom
+	url = git@github.com:MrPurple6411/BetterScannerRoom.git
 [submodule "BetterVehicleStorage"]
 	path = BetterVehicleStorage
-	url = https://github.com/MrPurple6411/BetterVehicleStorage
+	url = git@github.com:MrPurple6411/BetterVehicleStorage.git
 [submodule "MrPurple6411-Subnautica-Mods"]
 	path = MrPurple6411-Subnautica-Mods
-	url = https://github.com/MrPurple6411/My-Subnautica-Mods
+	url = git@github.com:MrPurple6411/My-Subnautica-Mods.git
 [submodule "PrimeSonicSubnauticaMods"]
 	path = PrimeSonicSubnauticaMods
-	url = https://github.com/MrPurple6411/PrimeSonicSubnauticaMods
+	url = git@github.com:MrPurple6411/PrimeSonicSubnauticaMods.git
 [submodule "PVD's Mods"]
 	path = PVD's Mods
-	url = https://github.com/MrPurple6411/PVDs-Mods-Reworked
+	url = git@github.com:MrPurple6411/PVDs-Mods-Reworked.git
 [submodule "RandyKnappMods"]
 	path = RandyKnappMods
-	url = https://github.com/MrPurple6411/RandyKnappMods
+	url = git@github.com:MrPurple6411/RandyKnappMods.git
 [submodule "LukeVoMods"]
 	path = LukeVoMods
-	url = https://github.com/MrPurple6411/LukeVoMods
+	url = git@github.com:MrPurple6411/LukeVoMods.git
